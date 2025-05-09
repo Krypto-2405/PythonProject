@@ -5,7 +5,7 @@ import hashlib
 from datetime import datetime
 import csv
 
-# Funktion zum Eintrag in die CSV-Logdatei
+# Funktion zum Schreiben in die CSV-Logdatei
 def log_article_to_csv(csv_path, data):
     file_exists = os.path.exists(csv_path)
     with open(csv_path, 'a', newline='', encoding='utf-8') as csvfile:
@@ -16,109 +16,109 @@ def log_article_to_csv(csv_path, data):
             writer.writeheader()
         writer.writerow(data)
 
-# Hauptfunktion zum Abrufen und Speichern eines Artikels
-def scrape_article(url, article_directory, html_directory, csv_log_path):
+# Funktion zum Erzeugen eines Dateinamens mit Revision
+def generate_filename(title, url_hash, revision, extension):
+    return f"{title}_{url_hash}_rev{revision}{extension}"
+
+# Hauptfunktion für einen Artikel
+def scrape_article(url, article_dir, html_dir, csv_log_path):
     try:
+        os.makedirs(article_dir, exist_ok=True)
+        os.makedirs(html_dir, exist_ok=True)
+
         url_hash = hashlib.md5(url.encode('utf-8')).hexdigest()[:6]
 
-        # Vorhandene HTML-Dateien mit gleichem Hash suchen
-        matching_files = [f for f in os.listdir(html_directory) if url_hash in f]
-        existing_last_modified = None
+        # Suche nach bereits vorhandenen HTML-Dateien mit dem gleichen Hash
+        existing_files = [f for f in os.listdir(html_dir) if url_hash in f and f.endswith(".html")]
         highest_revision = 0
+        existing_last_modified = None
 
-        for f in matching_files:
-            full_path = os.path.join(html_directory, f)
-            with open(full_path, 'r', encoding='utf-8', errors='ignore') as file:
-                soup = BeautifulSoup(file.read(), 'html.parser')
-                meta_tag = soup.find('meta', attrs={'name': 'last-modified'})
-                if meta_tag:
-                    existing_last_modified = meta_tag.get('content')
-            if "_rev" in f:
-                rev_part = f.split("_rev")[-1].split(".")[0]
-                try:
-                    highest_revision = max(highest_revision, int(rev_part))
-                except ValueError:
-                    pass
+        for file in existing_files:
+            rev_str = file.split("_rev")[-1].split(".")[0]
+            try:
+                highest_revision = max(highest_revision, int(rev_str))
+            except ValueError:
+                pass
+            with open(os.path.join(html_dir, file), 'r', encoding='utf-8', errors='ignore') as f:
+                soup = BeautifulSoup(f.read(), 'html.parser')
+                meta = soup.find('meta', attrs={'name': 'last-modified'})
+                if meta:
+                    existing_last_modified = meta.get('content')
 
-        # Neuesten Artikel abrufen
+        # Aktuelle Version vom Server holen
         response = requests.get(url)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
 
+        # Metadata prüfen
         current_last_modified_tag = soup.find('meta', attrs={'name': 'last-modified'})
         current_last_modified = current_last_modified_tag.get('content') if current_last_modified_tag else None
 
-        if existing_last_modified and existing_last_modified == current_last_modified:
-            print(f"Artikel unverändert – überspringe: {url}")
+        if existing_last_modified and current_last_modified == existing_last_modified:
+            print(f"Unverändert: {url}")
             return
 
-        # Titel extrahieren
-        article_title_tag = soup.find('h1')
-        article_title = article_title_tag.get_text(strip=True) if article_title_tag else "Unbenannter_Artikel"
+        # Titel aus <h1>
+        h1 = soup.find('h1')
+        title = h1.get_text(strip=True) if h1 else "Unbenannter_Artikel"
 
-        # Ungültige Zeichen entfernen
-        invalid_chars = ['\\', '/', ':', '*', '?', '"', '<', '>', '|']
-        for char in invalid_chars:
-            article_title = article_title.replace(char, '_')
+        for ch in ['\\', '/', ':', '*', '?', '"', '<', '>', '|']:
+            title = title.replace(ch, '_')
 
-        revision_suffix = f"_rev{highest_revision + 1}" if existing_last_modified else ""
-        full_title = f"{article_title}_{url_hash}{revision_suffix}"
-
-        def get_unique_filename(directory, filename):
-            counter = 1
-            base_filename, extension = os.path.splitext(filename)
-            while os.path.exists(os.path.join(directory, filename)):
-                filename = f"{base_filename}_{counter}{extension}"
-                counter += 1
-            return filename
+        revision = highest_revision + 1 if existing_last_modified else 0
+        html_filename = generate_filename(title, url_hash, revision, '.html')
+        html_path = os.path.join(html_dir, html_filename)
 
         # HTML speichern
-        html_filename = get_unique_filename(html_directory, f"{full_title}.html")
-        with open(os.path.join(html_directory, html_filename), 'w', encoding='utf-8') as file:
-            file.write(response.text)
+        with open(html_path, 'w', encoding='utf-8') as f:
+            f.write(response.text)
         print(f"HTML gespeichert: {html_filename}")
 
         # Artikeltext extrahieren aus <div class="content">
-        article_body = soup.find('div', class_='content')
+        content_div = soup.find('div', class_='content')
         text_filename = ''
-        if article_body:
-            article_text = article_body.get_text(separator='\n', strip=True)
+        if content_div:
+            article_text = content_div.get_text(separator='\n', strip=True)
             timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-            article_text = f"[Erstellt am: {timestamp}]\n\n{article_text}"
-            text_filename = get_unique_filename(article_directory, f"{full_title}.txt")
-            with open(os.path.join(article_directory, text_filename), 'w', encoding='utf-8') as file:
-                file.write(article_text)
-            print(f"Artikeltext gespeichert: {text_filename}")
-        else:
-            print(f"Artikeltext nicht gefunden in {url}")
+            full_text = f"[Erstellt am: {timestamp}]\n\n{article_text}"
 
-        # In CSV loggen
+            text_filename = generate_filename(title, url_hash, revision, '.txt')
+            text_path = os.path.join(article_dir, text_filename)
+
+            if not os.path.exists(text_path):
+                with open(text_path, 'w', encoding='utf-8') as f:
+                    f.write(full_text)
+                print(f"Text gespeichert: {text_filename}")
+            else:
+                print(f"Text bereits vorhanden: {text_filename}")
+        else:
+            print(f"Kein <div class='content'> gefunden für: {url}")
+
+        # Logging
         log_article_to_csv(csv_log_path, {
-            'Titel': article_title,
+            'Titel': title,
             'URL': url,
             'Hash': url_hash,
-            'Revision': highest_revision + 1 if existing_last_modified else 0,
-            'Last Modified': current_last_modified if current_last_modified else '',
+            'Revision': revision,
+            'Last Modified': current_last_modified or '',
             'Text-Dateiname': text_filename,
             'HTML-Dateiname': html_filename
         })
 
-    except requests.exceptions.RequestException as e:
-        print(f"Fehler beim Abrufen des Artikels {url}: {e}")
+    except Exception as e:
+        print(f"Fehler bei {url}: {e}")
 
-# Hauptcode
-article_links_file = "/home/findus/Dokumente/PythonProject/NBDS/Output/txt_links/article_links.txt"
-base_directory = "/home/findus/Dokumente/PythonProject/NBDS/Output"
-article_directory = os.path.join(base_directory, 'article')
-html_directory = os.path.join(base_directory, 'html_files')
-csv_log_path = os.path.join(base_directory, 'artikel_log.csv')
+# Hauptablauf
+if __name__ == "__main__":
+    base_dir = "/home/findus/Dokumente/PythonProject/NBDS/Output"
+    article_dir = os.path.join(base_dir, "article")
+    html_dir = os.path.join(base_dir, "html_files")
+    csv_log = os.path.join(base_dir, "artikel_log.csv")
+    article_links_file = os.path.join(base_dir, "txt_links", "article_links.txt")
 
-os.makedirs(article_directory, exist_ok=True)
-os.makedirs(html_directory, exist_ok=True)
+    with open(article_links_file, 'r', encoding='utf-8') as f:
+        urls = [line.strip() for line in f if line.strip()]
 
-with open(article_links_file, 'r', encoding='utf-8') as file:
-    article_links = [line.strip() for line in file if line.strip()]
-
-for idx, url in enumerate(article_links):
-    print(f"[{idx + 1}] Verarbeite Artikel: {url}")
-    scrape_article(url, article_directory, html_directory, csv_log_path)
+    for idx, link in enumerate(urls):
+        print(f"[{idx+1}] Verarbeite: {link}")
+        scrape_article(link, article_dir, html_dir, csv_log)
