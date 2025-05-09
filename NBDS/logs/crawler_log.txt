@@ -1,0 +1,678 @@
+🕒 [2025-05-08 22:38:11] Start
+Inhalt erfolgreich in /home/findus/Dokumente/Projekte/NBDS/Output/html/meta_output.html gespeichert.
+crawler1_meta.py wurde ausgeführt.
+Gefundene Reiter-Links:
+Text: Schlagzeilen, URL: https://www.spiegel.de/schlagzeilen/
+Text: SPIEGEL+, URL: https://www.spiegel.de/plus/
+Text: Magazine, URL: https://www.spiegel.de/magazine
+Text: SPIEGEL Extra, URL: https://www.spiegel.de/extra
+Text: Vatikan, URL: https://www.spiegel.de/thema/vatikan/
+Text: USA-Blog, URL: https://www.spiegel.de/ausland/a-81e94873-36e1-400b-a026-7fffc9ab6fd3
+Text: Neue Bundesregierung, URL: https://www.spiegel.de/thema/friedrich-merz-schwarz-rote-koalition/
+Text: Klimakrise, URL: https://www.spiegel.de/thema/klimawandel/
+Text: Politik, URL: https://www.spiegel.de/politik/deutschland/
+Text: Ausland, URL: https://www.spiegel.de/ausland/
+Text: Panorama, URL: https://www.spiegel.de/panorama/
+Text: Sport, URL: https://www.spiegel.de/sport/
+Text: Wirtschaft, URL: https://www.spiegel.de/wirtschaft/
+Text: Wissenschaft, URL: https://www.spiegel.de/wissenschaft/
+Text: Netzwelt, URL: https://www.spiegel.de/netzwelt/
+Text: Kultur, URL: https://www.spiegel.de/kultur/
+Text: Leben, URL: https://www.spiegel.de/thema/leben/
+Text: Daten & Visualisierungen, URL: https://www.spiegel.de/thema/daten-und-visualisierungen/
+Text: Reporter, URL: https://www.spiegel.de/thema/reporter/
+Text: Job & Karriere, URL: https://www.spiegel.de/karriere/
+Text: Start, URL: https://www.spiegel.de/start/
+Text: Tests, URL: https://www.spiegel.de/tests/
+Text: Geschichte, URL: https://www.spiegel.de/geschichte/
+Text: Mobilität, URL: https://www.spiegel.de/auto/
+Text: Audio, URL: https://www.spiegel.de/audio/
+Text: Video, URL: https://www.spiegel.de/video/
+Text: Debatte, URL: https://www.spiegel.de/debatten/
+Text: DEIN SPIEGEL, URL: https://www.spiegel.de/deinspiegel/
+Text: SPIEGEL in English, URL: https://www.spiegel.de/international/
+crawler2_themen_txt.py wurde ausgeführt.
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/schlagzeilen.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/plus.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/magazine.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/extra.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/vatikan.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/a-81e94873-36e1-400b-a026-7fffc9ab6fd3.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/friedrich-merz-schwarz-rote-koalition.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/klimawandel.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/deutschland.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/ausland.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/panorama.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/sport.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/wirtschaft.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/wissenschaft.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/netzwelt.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/kultur.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/leben.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/daten-und-visualisierungen.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/reporter.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/karriere.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/start.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/tests.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/geschichte.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/auto.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/audio.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/video.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/debatten.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/deinspiegel.html
+[✓] Gespeichert: /home/findus/Dokumente/Projekte/NBDS/Output/html/rubriken/international.html
+crawler3_html_write.py wurde ausgeführt.
+Verarbeite Seite: https://www.spiegel.de/wissenschaft/
+Verarbeite Seite: https://www.spiegel.de/wissenschaft//p2/
+Verarbeite Seite: https://www.spiegel.de/wissenschaft//p3/
+Verarbeite Seite: https://www.spiegel.de/wissenschaft//p4/
+Verarbeite Seite: https://www.spiegel.de/wissenschaft//p5/
+Verarbeite Seite: https://www.spiegel.de/wissenschaft//p6/
+Verarbeite Seite: https://www.spiegel.de/wissenschaft//p7/
+Verarbeite Seite: https://www.spiegel.de/wissenschaft//p8/
+Verarbeite Seite: https://www.spiegel.de/wissenschaft//p9/
+Verarbeite Seite: https://www.spiegel.de/wissenschaft//p10/
+[1] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/untote-im-mittelalter-wie-die-menschen-gegen-besucher-aus-dem-jenseits-kaempften-a-a74e1e3d-8696-42e5-b1ef-6ae66b924de0
+[2] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben-a-102c5551-4dc6-4ca3-85d5-6abbabad6ec4
+[3] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/duerre-am-bodensee-wir-laufen-jetzt-schon-in-eine-ziemlich-gefaehrliche-situation-a-e3fbd1e4-b5ec-492b-ba0a-326073a31208
+[4] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/fruchtfliegen-alkohol-macht-die-maennchen-sexy-a-1ee2f2a6-4425-4834-916b-48ace9421c82
+[5] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/mikrobiologie-billionen-von-viren-leben-auf-dem-menschen-und-halten-ihn-gesund-a-880b0499-5102-4c67-971b-16d16da44e47
+[6] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-elektronische-kampffuehrung-gegen-russische-drohnen-a-9aa8a3b2-9d67-4e30-86d5-bacf8bdb031c
+[7] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/knochensammlerraupe-warum-sich-diese-raupe-mit-den-ueberresten-ihrer-beute-verkleidet-a-e6d1c0e5-b7ea-48d3-a42e-f063fad3e081
+[8] Link gespeichert: https://www.spiegel.de/wissenschaft/klimakrise-die-wolken-auf-erden-schwinden-und-dann-kochen-die-ozeane-a-269d9a7a-4571-4e76-b1d9-80e9c56439a4
+[9] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/kriminalfall-der-urzeit-massengrab-riesiger-amphibien-in-wyoming-entdeckt-a-1ecbb873-4428-4dbc-81db-14efeecac5e1
+[10] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/elon-musk-faa-erklaert-starship-raketenprogramm-von-spacex-in-texas-fuer-unbedenklich-a-08fd471f-1718-4814-b6e3-2531074004a2
+[11] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/guatemala-maya-stadt-tikal-altar-fund-deutet-auf-alten-konflikt-hin-a-95e96fb2-a980-452f-a908-f188917efd3d
+[12] Link gespeichert: https://www.spiegel.de/wissenschaft/led-masken-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1
+[13] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/titanic-3d-scan-des-luxusdampfers-enthuellt-neue-details-zum-untergang-a-50cfd1c5-7982-4f1c-a3b9-a4b92ed10017
+[14] Link gespeichert: https://www.spiegel.de/wissenschaft/schattenwoelfe-wie-aus-game-of-thrones-forscher-sehen-gen-experiment-kritisch-a-4be1a97a-4f62-4ae3-bb17-d398bf5b7c77
+[15] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/reden-im-us-kongress-argumentieren-abgeordnete-eher-nach-ueberzeugungen-oder-fakten-a-42172dd2-59ed-4414-9e80-2acec792dec9
+[16] Link gespeichert: https://www.spiegel.de/wissenschaft/frankreich-forschungsprojekt-iter-weltweit-staerkster-magnet-gefertigt-a-bf9a628a-f2ea-488a-8f54-64b7a1997312
+[17] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/mars-mission-deutsche-forscher-entwickeln-solarzellen-aus-kuenstlichem-mondstaub-a-4bad6aa6-7cb4-4f9c-bbab-6b74c54d53c5
+[18] Link gespeichert: https://www.spiegel.de/wissenschaft/kinderspielzeug-eu-einigt-sich-auf-verbot-schaedlicher-chemikalien-in-spielzeug-a-6d7ae181-da9b-44f7-a3e5-5e4d9642ea1d
+[19] Link gespeichert: https://www.spiegel.de/wissenschaft/frankreich-moenche-banden-buecher-in-robbenfell-ein-aber-wo-bekamen-sie-das-her-a-3469b0a1-3e03-4972-8c6a-4da8056913be
+[20] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/raumfahrt-kosmos-482-aus-sowjetzeit-kann-unkontrolliert-auf-die-erde-stuerzen-a-e8cc4ec0-50e4-44b2-835a-7d1e805b6178
+[21] Link gespeichert: https://www.spiegel.de/wissenschaft/trockenheit-in-deutschland-wasserproblem-im-koalitionsvertrag-kaum-beruecksichtigt-a-54321e94-2fe9-4626-b544-90b5cc793afd
+[22] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/klimabericht-des-deutschen-wetterdienstes-fuer-2024-so-hart-trifft-deutschland-die-klimakrise-a-f6d5759b-dddb-4b12-8085-ea2bbe831996
+[23] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/mongolei-dinosaurier-duonychus-tsogtbaatari-aus-fossilien-rekonstruiert-a-fa0e9cd7-ff5c-41b4-9e50-4bf602db6fdf
+[24] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/borstenwurm-was-in-karlsruhe-und-in-anderen-museen-kurioses-gefunden-wurde-a-c15ab35b-b202-49e0-87d4-3a32f8d9bc68
+[25] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/tiefseebergbau-was-von-donald-trumps-plaenen-zu-halten-ist-a-ed07a102-96dc-45f6-a36f-855ad79dd8b8
+[26] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/marsrover-curiosity-ein-kleiner-schwarzer-punkt-auf-grosser-fahrt-a-9220f298-1fad-48b0-9365-3ccbe9ac5483
+[27] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/vietnam-neue-genanalyse-soll-spur-zum-asiatischen-einhorn-saola-liefern-a-c783bf20-52f4-443c-af48-07b5dbc158bf
+[28] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/malta-jaeger-und-sammler-reisten-schon-vor-8500-jahren-auf-die-insel-a-1ac0bc13-4990-4d4f-ae49-1c9786f9d54b
+[29] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/energiemarkt-strom-aus-sonne-und-wind-die-uebersehene-revolution-a-483e4a52-b3ee-492d-9f76-41e573ebcb42
+[30] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/daenemark-aggressiver-schimmel-bedroht-kunstschaetze-in-museen-a-f113bbe3-9c55-47cb-8a4e-ac5795b1e5ca
+[31] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/tschernobyl-kontaminiertes-ackerland-kann-offenbar-wieder-bewirtschaftet-werden-a-9c45205f-fa22-4264-a965-e6a8d467a97b
+[32] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/wir-befreunden-uns-eher-mit-menschen-die-wir-gut-riechen-koennen-a-374b04e9-3552-4169-9113-654a1812469e
+[33] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/trockenheit-in-deutschland-wie-stadteichhoernchen-die-duerre-ueberstehen-a-300f3cc6-86c1-4eb5-b1b5-c5608ae3cfbe
+[34] Link gespeichert: https://www.spiegel.de/wissenschaft/usa-wissenschaftler-verlassen-das-land-exodus-der-klugen-koepfe-a-62402d46-d0e3-41ef-a830-08e6b07528b6
+[35] Link gespeichert: https://www.spiegel.de/wissenschaft/archaeologie-das-raetselhafte-verschwinden-der-wikinger-a-75278ef8-1469-4018-be79-deb20d59d2d9
+[36] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/koalitionsvertrag-die-wichtigste-strategische-frage-a-5bf774c6-b2bd-401a-9235-7073da1488a0
+[37] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/elon-musk-spacex-erhaelt-milliardenschweren-us-regierungsauftrag-a-f3684352-0e6a-47b4-a41a-56673f5a2008
+[38] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/leipzig-archaeologen-entdecken-raetselhafte-grubenlinien-a-04f210c1-4932-4dcb-82b7-675642f5ab29
+[39] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/neuseeland-seltene-schneckenart-legt-eier-aus-ihrem-hals-a-356d4ba5-777b-4702-ac31-764cb3e03c1a
+[40] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen-a-c3b592f2-b9b4-4dc7-ab53-020745981d5e
+[41] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/donald-trump-die-sorge-des-us-praesidenten-vor-viren-aus-dem-labor-a-5aa78b66-47cb-42fb-82d7-4af80112a1e6
+[42] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/isar-aerospace-spectrum-rakete-kurz-nach-erfolgreichem-start-abgestuerzt-a-7e18e3f0-b680-44ad-b061-bdc33bc3b86f
+[43] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/ausschuettung-von-opioiden-gehirn-reagiert-auf-musik-aehnlich-wie-auf-essen-und-sex-a-e0b5f6e7-a170-4e1b-a5e3-a8fc520b9de8
+[44] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/entwicklungshilfe-gekuerzte-aids-hilfen-koennen-bis-zu-drei-millionen-leben-kosten-a-36a09731-d87a-4747-84cb-799dbfce7566
+[45] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/aralsee-austrocknen-fuehrt-zu-veraenderungen-bis-in-den-erdmantel-a-7ad29445-cac0-4a55-b9a9-82380d09deb6
+[46] Link gespeichert: https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605
+[47] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/donald-trump-usa-stoppen-gain-of-function-forschung-an-viren-a-e2191efb-3127-4c7b-8870-852311580302
+[48] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/atmos-space-cargo-deutsches-raumfahrt-startup-testet-aufblasbaren-hitzeschild-a-ae905a30-5d9b-417f-9686-43b8c60b7b10
+[49] Link gespeichert: https://www.spiegel.de/wissenschaft/uebergangs-praesidentin-der-columbia-universitaet-tritt-ab-a-ac6bd36a-ec32-48b9-8f65-353a10aa14f2
+[50] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/kanada-schafft-das-klimageld-ab-bonus-fuer-sparsame-a-b4d7f902-95f5-40f2-8bbf-eabc921cd158
+[51] Link gespeichert: https://www.spiegel.de/wissenschaft/stuttgart-archaeologen-entdecken-roemischen-pferdefriedhof-a-c32f2515-d11e-4e3c-a025-b19f466779e9
+[52] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/tripper-neu-entwickeltes-antibiotikum-wirkt-gegen-resistente-erreger-a-a0dd83ad-bda0-40d2-8fbe-066cd14fba7e
+[53] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/fruehling-2025-in-deutschland-extrem-trocken-welche-folgen-das-nun-hat-a-c5abaa20-deda-49d6-9bcf-13ebccd72aa2
+[54] Link gespeichert: https://www.spiegel.de/wissenschaft/plastikmuell-plastik-wird-laut-studie-nur-zu-einem-bruchteil-recycelt-a-f14c0f54-ee72-414f-984c-3850fbf3d5a5
+[55] Link gespeichert: https://www.spiegel.de/wissenschaft/klimawandel-wo-sind-die-2600-milliarden-tonnen-wasser-hin-a-00373276-5b2a-4d29-9424-07579003df19
+[56] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien-a-97db17a2-0426-4a9d-b141-a66ab7dc2f16
+[57] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/makrelen-im-nordostatlantik-bestand-geht-zurueck-a-3db52a38-8ab0-4153-90e8-81390e9852e4
+[58] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/malaysian-airlines-flug-mh370-die-letzte-suche-nach-dem-groessten-mysterium-der-luftfahrt-a-83a45df4-de15-4f83-926f-65f6c098d314
+[59] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/cdu-csu-und-spd-in-koalitionsverhandlungen-fusionsreaktor-traeume-der-union-a-38dfd1d6-5ec2-4089-b199-f0a078ccab47
+[60] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/mumie-in-oesterreich-forscher-loesen-raetsel-um-luftgselchten-pfarrer-a-9ac4f21b-42b9-48f4-bcab-844552448479
+[61] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/ki-orakel-erkennt-lebensalter-kiffen-und-autofahren-der-lifestyle-der-germanen-a-7ebca6be-2ac1-4d48-b62b-09396e579185
+[62] Link gespeichert: https://www.spiegel.de/wissenschaft/ursula-von-der-leyen-eu-will-als-antwort-auf-donald-trump-magnet-fuer-forscher-werden-a-8b534b1d-7c05-4586-83a4-ddd7e726d8eb
+[63] Link gespeichert: https://www.spiegel.de/wissenschaft/frauen-im-beruf-warum-wir-ueber-menstruation-und-wechseljahre-sprechen-muessen-podcast-a-b6689c01-7397-4586-8207-e02d12bbf2db
+[64] Link gespeichert: https://www.spiegel.de/wissenschaft/brustkrebs-vorsorgliche-brustamputation-mit-24-jahren-a-8e53bfb3-7d4f-42a9-acca-45f9bde0619b
+[65] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/schattenwolf-haben-forschende-wirklich-den-dire-wolf-wiederbelebt-a-f2ec89b9-9042-4dcd-ae1e-15c21aea88d2
+[66] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/usa-klimabedingte-waldbraende-koennten-15-000-todesfaelle-mitverursacht-haben-a-507a3ad7-6ce7-40a7-a5ef-82872d17799c
+[67] Link gespeichert: https://www.spiegel.de/wissenschaft/koalitionsvertrag-das-bringt-das-regierungsprogramm-fuer-den-klimaschutz-a-e296ab36-a058-4c7b-a075-c35c9ff7af77
+[68] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/schwaben-deutsches-plesiosaurus-fossil-veraendert-sichtweise-auf-eine-ganze-art-a-81248302-b023-423d-a643-62a7e383922e
+[69] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/weltraum-biomass-esa-muss-satelliten-abschalten-weil-er-us-militaer-stoert-a-9d4aec6b-71a1-40c6-bab5-d9e5eb24eb15
+[70] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/exoplanet-bd-05-4868-ab-verliert-fast-jeden-tag-die-masse-des-mount-everest-a-4ad54358-a8fa-48f5-bb6e-f72307b365c9
+[71] Link gespeichert: https://www.spiegel.de/wissenschaft/jerusalem-archaeologen-finden-jahrhundertealte-graffiti-im-saal-des-letzten-abendmahls-a-4aa66fc9-6c9b-4f7c-ac5e-3d2c46e6576d
+[72] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/blitze-und-gewitter-rosenheim-ist-deutschlands-blitz-hauptstadt-2024-a-97e2372c-a7ed-4919-9107-cd00583c6187
+[73] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/erdbeben-in-myanmar-interview-mit-seismologe-frederik-tilmann-ueber-die-ursachen-a-13c2effb-b63a-4a12-80ee-6bb4984cb866
+[74] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/istanbul-seismologe-yoshinori-moriwaki-warnt-vor-tsunamis-mit-meterhohen-wellen-a-96289250-7226-4e3d-81ea-fc4d7f2287a2
+[75] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/koloss-kalmar-forscher-filmen-ihn-zum-ersten-mal-in-seiner-natuerlichen-umgebung-a-b7d9805d-7450-4c6a-be1d-9fde9bc572d1
+[76] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/exoplanet-k2-18b-hinweise-auf-ausserirdisches-leben-entdeckt-a-7ae4e94d-c0c6-4586-beef-a9d3d53febd5
+[77] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen-a-f5fff176-fcb3-4180-91b3-287c47c9ba12
+[78] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a
+[79] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/tu-muenchen-neues-verfahren-findet-krankheitserreger-in-minuten-statt-tagen-a-4f08acbc-933e-4f6c-aa08-f29a9800c6af
+[80] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/kinderlaehmung-zehntausende-leiden-unter-dem-post-polio-syndrom-a-60e4ef13-30d0-4f1e-b3c9-ce88c0c98087
+[81] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/unwetter-in-den-usa-meteorologen-warnen-vor-katastrophalen-ueberschwemmungen-a-86b8aa24-19f9-4f17-9a00-b108bfa56a1d
+[82] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/donald-trump-gegen-die-wissenschaft-us-forschende-suchen-verstaerkt-nach-stellen-im-ausland-a-6028e834-7807-41c7-a711-54fd224b34f2
+[83] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/beton-superkondensatoren-wie-die-hauswand-zum-energiespeicher-wird-a-e8ea9f7b-b07e-4218-8c4e-807797da597b
+[84] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/handys-powerbanks-e-zigaretten-wie-gefaehrlich-sind-handyakkus-im-handgepaeck-a-fe015b3d-faed-40c0-972a-1163236d7b12
+[85] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/klimawandel-waermster-maerz-in-europa-seit-beginn-der-aufzeichnungen-a-9460c929-87b6-4c8f-b78c-0ba2a3e87d0f
+[86] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/klima-die-reichsten-zehn-prozent-sind-fuer-zwei-drittel-der-erderwaermung-verantwortlich-a-ed3158ea-0880-4f84-9d46-a28914b67186
+[87] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/gesundheit-aerzte-verschreiben-museumsbesuch-auf-rezept-als-alternative-zur-traditionellen-medizin-a-6235fdff-b5a5-4d59-8c41-70d820e73f1e
+[88] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/china-schweineleber-erstmals-in-hirntoten-menschen-transplantiert-a-d6ac5bf3-f28d-40e8-92f8-e790e73cb41d
+[89] Link gespeichert: https://www.spiegel.de/wissenschaft/spacex-rabea-rogge-als-erste-deutsche-frau-im-weltall-frueher-waren-astronauten-absolute-helden-a-f41e4d9d-fe33-4226-8a9e-fdc4f59161cd
+[90] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/waldbraende-wie-neue-satelliten-beim-kampf-gegen-feuer-helfen-a-5cc7a362-ce0f-40e4-b532-cf5abd537d46
+[91] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-als-erste-deutsche-frau-ins-all-gestartet-fuer-spacex-raumfahrt-mission-fram2-a-db6adc75-034b-4162-859b-a6910eb6a7b2
+[92] Link gespeichert: https://www.spiegel.de/wissenschaft/donald-trump-und-die-zoelle-china-setzt-im-handelskrieg-auf-die-macht-seiner-seltenen-erden-a-e8e2efa0-1986-447a-bc3f-3872de39a806
+[93] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/schlaf-und-gesundheit-studie-legt-vorteile-von-laengerem-schlaf-fuer-heranwachsende-nahe-a-072f1090-7188-4620-ad74-c10e40608da8
+[94] Link gespeichert: https://www.spiegel.de/wissenschaft/iss-erfolgreiche-rueckkehr-von-us-amerikanischen-und-russischen-astronauten-a-b50f76a1-add9-4cc4-b882-5b9a3d3d8639
+[95] Link gespeichert: https://www.spiegel.de/wissenschaft/europas-klima-2024-im-westen-war-es-zu-nass-im-osten-zu-trocken-a-52c300af-439b-4a57-b488-9b88a478c279
+[96] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/europaeische-union-wind-und-solarenergie-staerken-europas-unabhaengigkeit-a-f9931a4a-38c0-41e6-bcac-2f98d3d78870
+[97] Link gespeichert: https://www.spiegel.de/wissenschaft/rauchen-val-kilmer-und-david-lynch-sind-tot-wir-muessen-ueber-die-unsichtbare-epidemie-sprechen-a-7bb44866-0d26-4951-9417-a1dee2b94708
+[98] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/us-finanzpolitik-wie-donald-trump-den-kapitalismus-bedroht-kolumne-a-0122b47d-64ae-4d3f-a099-1aac6a804e66
+[99] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/gesunde-ernaehrung-fuer-raumfahrende-im-all-fermentiertes-miso-schmeckt-nussig-a-0307553e-d0a1-4d03-8720-26b69b8ba438
+[100] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/co-deponien-forscher-empfehlen-speicherorte-in-der-nordsee-a-f523ff7b-39cf-4cfc-8779-a4f49c64cc37
+[101] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/fossil-sue-weicher-kern-perfekt-erhalten-harte-schale-aufgeloest-a-b2c0f620-63ce-4d74-b869-c436fd221c99
+[102] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/raumfahrt-astronauten-koennten-im-all-eigenes-essen-herstellen-a-ee20b523-9cf8-40bb-89fc-10eaa4d37cb7
+[103] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/ki-trainingsdaten-hat-metas-llama-meine-buecher-gelesen-kolumne-a-80365448-7759-45b2-8e7e-b479ca3853a9
+[104] Link gespeichert: https://www.spiegel.de/wissenschaft/donald-trump-vs-harvard-wie-der-protest-nach-diskriminierungsberichten-weitergehen-kann-a-65e7318b-ab2e-4dff-8242-a8bf1e67d4f8
+[105] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/corona-bnd-muss-erkenntnisse-ueber-pandemie-ursprung-nicht-offenlegen-a-cb50ee7c-1b79-4b16-99d0-facc758d9af1
+[106] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/mpox-experten-warnen-vor-ernster-bedrohung-durch-affenpocken-a-a07f9daf-b95f-45af-bbac-d19bf4b65a49
+[107] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/alterprognose-mit-ki-ein-blick-in-den-koerper-verraet-das-sterberisiko-a-a2fabd89-0d0b-4604-8f28-413501f86d26
+[108] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/abnehmpille-statt-ozempic-und-wegovy-eli-lilly-testet-tablette-fuer-schnellen-gewichtsverlust-a-8be52514-04e0-405d-9027-01469ccd930f
+[109] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-das-bedeutet-der-erste-test-der-neuen-deutschen-rakete-a-df5073a4-7f7a-4902-ac4b-c87b9d280948
+[110] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-am-samstag-sieht-die-sonne-etwas-angeknabbert-aus-a-35e7933e-cd64-4a14-a50e-a3ce22207db6
+[111] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/ostsee-forscher-aus-rostock-wecken-alge-nach-7000-jahren-dauerschlaf-a-5da80e5c-435a-489f-8c46-a059a42fedb7
+[112] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/masern-ausbruch-im-sueden-der-usa-ist-der-groesste-seit-25-jahren-a-59e09901-9656-473e-b65f-091cef10446a
+[113] Link gespeichert: https://www.spiegel.de/wissenschaft/antje-boetius-ueber-ihren-wechsel-in-die-usa-es-gibt-nur-verlierer-wenn-forschung-ideologisiert-wird-a-1192e0d6-7364-4d67-a509-e9f2213beca4
+[114] Link gespeichert: https://www.spiegel.de/wissenschaft/erkenntnisse-ueber-die-germanen-dieses-trara-um-die-varusschlacht-ist-mir-suspekt-a-03bb87ca-9477-4b37-a6ce-1393a9e23a45
+[115] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/quantenkommunikation-forscher-bauen-quantennetzwerk-ueber-gewoehnliches-telefonkabel-auf-a-baeefab8-aa04-44bf-bdbd-6d43c1618c55
+[116] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/island-vulkan-sundhnuksgigar-ausgebrochen-lava-verschluckt-strassen-blaue-lagune-evakuiert-a-6157ed2e-7b1c-427a-9688-ecc5c59cdebc
+[117] Link gespeichert: https://www.spiegel.de/wissenschaft/wie-sicher-sind-norwegens-erdgas-pipelines-nach-deutschland-a-247288d7-ad48-4066-9699-cf540fe376bf
+[118] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/desy-chefin-beate-heinemann-wir-verlieren-immer-noch-viele-talentierte-forscherinnen-a-bc28c14a-ef63-435a-8ccd-d5a3248b48dd
+[119] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-myanmar-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben-a-45ffe439-abca-45bc-9173-b01a01d12b68
+[120] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/donald-trump-gegen-die-wissenschaft-wie-viel-widerstand-kann-sich-harvard-leisten-a-34a15953-f0d1-442c-a1cc-c2ceb291b838
+[121] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/raumfahrt-rabea-rogge-soll-als-erste-frau-mit-spacex-um-die-pole-fliegen-a-7cbc7a38-ec9a-484f-a4bd-0452ece4e925
+[122] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/weltgesundheitsorganisation-who-staaten-einigen-sich-auf-pandemie-abkommen-a-4baacf74-e3a8-439b-89e9-e77466458d52
+[123] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/schlafstoerungen-haengen-sie-mit-verschwoerungsglauben-zusammen-a-6f829ea9-f687-41db-911e-075b8f13ddb0
+[124] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/gladiatoren-hinweise-auf-kaempfe-mit-loewen-im-roemischen-reich-a-4ae65d87-0eba-4d65-8fd3-3330983a77cc
+[125] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/pompeji-archaeologen-entdecken-antike-grabskulpturen-in-nekropole-von-porta-sarno-a-325eb4a5-d4af-4655-a73a-b2178c7584b0
+[126] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/artus-legende-verstecktes-merlin-manuskript-in-altem-buch-in-cambridge-entdeckt-a-65718fbf-fdc5-448a-bc8b-0943a1abe0b5
+[127] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-mit-seltenen-leguanen-aus-galapagos-nimmt-zu-a-28a282fa-2b57-49ba-aab7-68ac373de35e
+[128] Link gespeichert: https://www.spiegel.de/wissenschaft/sefe-warum-macht-eine-deutsche-firma-gasgeschaefte-mit-russland-a-a17f23dd-f5ae-4db1-a79d-b0b22309f0bf
+[129] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/australien-regierung-nach-toetung-von-700-koalas-in-der-kritik-a-2eb585db-ce8d-4232-806f-017feedc8f74
+[130] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/kalifornien-seeloewin-ronan-zeigt-mehr-rhythmusgefuehl-als-mancher-mensch-a-745ceb0b-937b-4448-ba2c-67a5cb886a89
+[131] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/erdbeben-in-istanbul-tuerkei-die-erdstoesse-sind-vorboten-einer-groesseren-katastrophe-a-f66e4ff2-7a00-47fe-a3aa-b671b5451099
+[132] Link gespeichert: https://www.spiegel.de/wissenschaft/kraehen-koennen-laut-studie-geometrische-formen-erkennen-a-23ec702f-a2dd-4129-861a-a35ce967f7da
+[133] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/iss-nasa-gestrandete-astronauten-wuerden-wieder-starliner-fliegen-a-e4e7fd91-5f38-49ed-b448-5cf2a2e2ae36
+[134] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/donald-trump-rund-1900-forschende-widersetzen-sich-grossangriff-auf-die-amerikanische-wissenschaft-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc
+[135] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/denisova-mensch-forschende-wollen-kieferknochen-identifiziert-haben-a-c84b70b9-fac5-4f45-896b-adb3122c6388
+[136] Link gespeichert: https://www.spiegel.de/wissenschaft/rheinfall-moos-felsen-statt-tosende-fluten-a-4e8fa59b-b17c-42d8-b382-83133d4ef959
+[137] Link gespeichert: https://www.spiegel.de/wissenschaft/das-oropouche-virus-breitet-sich-in-lateinamerika-aus-a-23aaf71a-f097-480c-a4dd-2a52c380c70e
+[138] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/eu-kommission-erlaubt-neuen-wirkstoff-gegen-alzheimer-a-b883a4ea-9e94-4692-b275-7e2a17f0c47a
+[139] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/attacke-auf-flughafen-von-tel-aviv-warum-israels-raketenschutzschirm-manchmal-loecher-hat-a-9b2aba8a-adb3-44d8-a980-b574de64f38e
+[140] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/wie-starker-kaffee-auch-mit-wenig-pulver-gelingt-physiker-geben-tipps-a-e0fec5bc-90a1-4274-8f14-05dcade13032
+[141] Link gespeichert: https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5
+[142] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/italien-mutmasslich-russische-drohne-ueberfliegt-forschungszentrum-der-eu-a-b9b3bfe0-c8b3-4494-ab5b-ec8273921048
+[143] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/tiefsee-nicht-einmal-0-001-prozent-sind-erforscht-a-6ec6d4b0-570c-4adc-ba2b-ef2a2c33f017
+[144] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/fledermaeuse-koennen-durch-echoortungsstrategie-kollisionen-vermeiden-a-efc09498-41c8-4448-a397-c37e4cf86459
+[145] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/harvard-co-wie-kaempfen-us-hochschulen-gegen-trumps-sparpolitik-a-bb854b53-29f4-4789-9637-77e941d89550
+[146] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/vogelbestaende-drei-viertel-der-arten-in-nordamerika-im-rueckgang-a-f5ac1398-4e27-49e6-9330-9bb825839f00
+[147] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/island-forschende-erwarten-unruhige-zeiten-auf-reykjanes-halbinsel-a-c43d20a0-f95a-4406-83a4-ff5b2b356e66
+[148] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/brasilien-dieser-pfeilgiftfrosch-vom-amazonas-traegt-leopardenmuster-a-74ffd585-8c3e-47a2-b13b-8d112b25126e
+[149] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/baumhummer-im-prager-zoo-dieser-hummer-lebt-auf-baeumen-a-054033f7-f82f-4dd8-ab94-ae2e2b0741ab
+[150] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/berghain-in-berlin-und-die-techno-szene-forscher-erklaert-das-einlass-prinzip-a-5e3702e0-6fb4-4413-a9eb-85e99b8cae9f
+[151] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/unterwasservulkan-im-pazifik-forschende-beobachten-vulkanausbruch-in-der-tiefsee-a-f506dbbb-df3f-4552-8779-4201e0fda7bd
+[152] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/donald-trump-helfen-die-zoelle-am-ende-dem-klima-a-d16955a4-1a9c-4745-8c34-e478c6b54656
+[153] Link gespeichert: https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand-a-e889046f-e82b-4c75-b9ab-654cc229e08b
+[154] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/gehirnjogging-die-wahrheit-ueber-wikinger-und-die-trockenheit-am-bodensee-a-a3fd92d7-791e-4c9b-be9e-73cafae1bbcb
+[155] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/hirnforschung-in-einem-winzigen-stueck-maeusehirn-stecken-84-000-nervenzellen-a-352222f0-10f6-40a5-a0f4-1361a2e9c7d8
+[156] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e
+[157] Link gespeichert: https://www.spiegel.de/wissenschaft/hochwasser-sturmfluten-waldbraende-portal-soll-buerger-besser-auf-naturgefahren-vorbereiten-a-f1acf023-8e1e-4198-be1d-d8704d861f2d
+[158] Link gespeichert: https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest-a-850e6f5f-5615-4eaa-b17b-55e29ee6aa0e
+[159] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/oesterreich-forscher-entdecken-massengrab-mit-roemischen-soldaten-bei-wien-a-f7646e15-fb57-48c6-92ee-c440064542fa
+[160] Link gespeichert: https://www.spiegel.de/wissenschaft/konkurrenz-fuer-starlink-von-elon-musk-amazon-bringt-seine-ersten-internet-satelliten-ins-all-a-68a46187-d68a-407d-b4e3-e3ab2125699c
+[161] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/iran-schwerer-sandsturm-betrifft-millionen-menschen-a-278ad0c0-5f9a-4369-82b6-5e91f279bad3
+[162] Link gespeichert: https://www.spiegel.de/wissenschaft/tapinoma-magnum-aggressive-ameise-breitet-sich-in-deutschland-aus-a-552940d7-8cb0-4143-8bcd-7659941ea1ab
+[163] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/russland-ukraine-krieg-welche-rolle-spielen-nordkoreas-riesengeschuetze-koksan-a-1a5e25ec-a4b3-4057-9ac9-77eef8a35ad2
+[164] Link gespeichert: https://www.spiegel.de/wissenschaft/gedenken-an-den-bauernkrieg-so-seltsam-feiert-oberschwaben-das-historische-jubilaeum-a-41df8944-dd13-4870-9b0a-6667a3145ef9
+[165] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/waffen-kann-europa-militaerisch-gegen-russland-bestehen-a-1ce6ebaf-7382-4f36-abdc-4c47461143e4
+[166] Link gespeichert: https://www.spiegel.de/wissenschaft/usa-hochwasser-in-tennessee-video-von-fast-ueberfluteter-farm-geht-viral-a-2a604ae8-2526-4460-bebb-660d729ddb6f
+[167] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/tierversuche-warum-sich-mehr-als-110-forschende-zu-den-experimenten-bekennen-a-90a95941-cc6e-45b8-8e25-c2d11115bf34
+[168] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/coronavirus-stammt-sars-cov-2-aus-einem-chinesischen-labor-ja-sagt-das-weisse-haus-a-5dba0ba1-5d1a-4b45-9996-262151d79022
+[169] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung-a-de793f8a-8627-4280-83df-b87c00abf191
+[170] Link gespeichert: https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland-a-056d3262-6273-483e-a44a-a5f9e20853c8
+[171] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/primatenforschung-in-bolivien-suedamerikanische-affen-uebertreffen-menschliche-jodler-im-stimmumfang-a-4f05f050-cbac-46fd-abc5-448f5a9263b1
+[172] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/exomars-mission-airbus-baut-landeplattform-fuer-europaeischen-mars-rover-a-8b59f507-0a79-4268-a439-ab70fff76a34
+[173] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/lernen-was-beim-lernen-wirklich-hilft-erkenntnisse-aus-der-hirnforschung-a-c2ebc3b5-ff5d-4579-aae9-61eb042f3c28
+[174] Link gespeichert: https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-lyriden-meteorstrom-erreicht-seinen-hoehepunkt-a-2eaa173f-b4e3-4e9e-9efb-76c5e4d79586
+[175] Link gespeichert: https://www.spiegel.de/wissenschaft/suedkorea-taucherinnen-von-jeju-genanalyse-zeigt-warum-koerper-die-belastung-aushalten-a-6dc9c1ac-d9e9-4ee3-b6f3-6afb0a651e5d
+[176] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/arbeit-im-schlachthof-es-gibt-aehnlichkeiten-zwischen-schlachtern-und-menschen-die-fleisch-essen-a-65bcab01-daa1-4246-a223-4e8a6f96878b
+[177] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/herculaneum-roentgenanalyse-macht-antike-tinte-auf-verkohltem-papyrus-lesbar-a-94fabaae-8c3c-40ec-a492-d81400dd1045
+[178] Link gespeichert: https://www.spiegel.de/wissenschaft/james-webb-teleskop-ungewoehnliche-spiralgalaxie-aus-frueher-kosmos-aera-entdeckt-a-8898dc6c-3216-42b7-93f4-06cb490380c9
+[179] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/pasta-rezept-fuer-cacio-e-pepe-physiker-entwickeln-idiotensichere-rezeptur-a-0fdd05d8-1276-4539-b741-2555c030457f
+[180] Link gespeichert: https://www.spiegel.de/wissenschaft/menschenaffen-und-alkohol-wilde-schimpansen-teilen-gern-vergorene-fruechte-a-abe27bfb-ae09-49ff-958a-ae34c99081f8
+[181] Link gespeichert: https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0
+[182] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/us-forscher-auf-der-flucht-die-rueckkehr-der-masern-ein-donut-aus-dem-all-lese-empfehlungen-a-7dca9296-b5e6-450b-bcce-8d6562301d37
+[183] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/rund-ein-viertel-der-waelder-muss-aufgeforstet-werden-a-d12ba11f-1d22-4ba0-bca4-522baaaef632
+[184] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/bayesian-so-soll-die-luxusjacht-geborgen-werden-a-a682241e-24cf-4005-b73a-0ae11c99baec
+[185] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/voegel-in-der-stadt-auffaelliges-gefieder-erleichtert-anpassung-a-ba2d73a0-4377-4ea5-b9ae-f916b1a70fc3
+[186] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg-a-f0653090-3a29-480a-bacd-84c6d2b1d352
+[187] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/koalitionsverhandlungen-klimaziele-durch-neue-regierung-in-gefahr-a-9e8b2351-bb7d-465e-a26b-90c309a6873a
+[188] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/die-stille-sucht-raus-aus-der-medikamentenabhaengigkeit-spiegel-tv-fuer-arte-re-a-e1ef7900-fcc9-41b5-be0c-32604726ed55
+[189] Link gespeichert: https://www.spiegel.de/wissenschaft/wie-china-die-usa-in-der-wissenschaft-ueberholen-moechte-a-9c3f785c-a122-4a18-a582-cd95d86c638e
+[190] Link gespeichert: https://www.spiegel.de/wissenschaft/technik/grossbritannien-was-steckt-hinter-den-mutmasslichen-russischen-spionagesensoren-am-meeresgrund-a-67cc566b-0b75-4c8a-b15e-48788adac316
+[191] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/oxford-archaeologe-kritisiert-nutzung-von-menschlichem-schaedel-bei-festen-a-a4f4ea7b-d7d4-4672-901d-4045489f4f2a
+[192] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/mysterioese-funde-der-gusseisensarg-im-hamburger-museum-a-5db2e98f-a191-4a84-b67d-3cc24188c0b0
+[193] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/wissenschaft-geheimnisse-der-wolken-mysterioeser-sarg-probleme-mit-e-autos-a-0e7ca68f-46ad-4f05-bd83-7c3c3ee2ee89
+[194] Link gespeichert: https://www.spiegel.de/wissenschaft/gletscher-diese-eisriesen-zerrinnen-a-5c889858-7313-4254-9f4a-dc0d3ab8587a
+[195] Link gespeichert: https://www.spiegel.de/wissenschaft/medizin/einbalsamierung-was-beim-aufbahren-von-paepsten-zu-beachten-ist-und-schiefgehen-kann-a-2171b5be-6f07-43cd-8b8b-41f0fc5533e5
+[196] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/akku-braende-im-flugzeug-der-neutrino-detektor-in-china-schwuler-ss-offizier-eugen-dollmann-a-ce748177-0d88-4e8c-8b27-cb5213f17a74
+[197] Link gespeichert: https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-der-erde-a-92c41a70-78a7-422e-872c-4f0ff79def57
+[198] Link gespeichert: https://www.spiegel.de/wissenschaft/natur/dire-wolf-experiment-im-genlabor-forscher-erschaffen-ausgestorbenen-schattenwolf-zumindest-teilweise-a-6ac1691e-e343-4d92-87bf-b38271552a91
+[199] Link gespeichert: https://www.spiegel.de/wissenschaft/mensch/sonntagsfrage-die-staendigen-scheinwahlen-schaden-der-demokratie-und-gefaehrden-sinnvolle-politik-a-cdc827a3-0160-467c-8bdd-a6e009da4b50
+[200] Link gespeichert: https://www.spiegel.de/wissenschaft/stromversorgung-in-spanien-und-portugal-wird-wiederhergestellt-a-e35a54fc-a45d-4d40-a42f-45112a768668
+crawler4_article_links.py wurde ausgeführt.
+[1] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/untote-im-mittelalter-wie-die-menschen-gegen-besucher-aus-dem-jenseits-kaempften-a-a74e1e3d-8696-42e5-b1ef-6ae66b924de0
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/untote-im-mittelalter-wie-die-menschen-gegen-besucher-aus-dem-jenseits-kaempften-a-a74e1e3d-8696-42e5-b1ef-6ae66b924de0
+[2] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben-a-102c5551-4dc6-4ca3-85d5-6abbabad6ec4
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/vogelgrippe-ein-einziger-wildvogel-kontakt-soll-ausbruch-bei-us-kuehen-ausgeloest-haben-a-102c5551-4dc6-4ca3-85d5-6abbabad6ec4
+[3] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/duerre-am-bodensee-wir-laufen-jetzt-schon-in-eine-ziemlich-gefaehrliche-situation-a-e3fbd1e4-b5ec-492b-ba0a-326073a31208
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/duerre-am-bodensee-wir-laufen-jetzt-schon-in-eine-ziemlich-gefaehrliche-situation-a-e3fbd1e4-b5ec-492b-ba0a-326073a31208
+[4] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/fruchtfliegen-alkohol-macht-die-maennchen-sexy-a-1ee2f2a6-4425-4834-916b-48ace9421c82
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/fruchtfliegen-alkohol-macht-die-maennchen-sexy-a-1ee2f2a6-4425-4834-916b-48ace9421c82
+[5] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/mikrobiologie-billionen-von-viren-leben-auf-dem-menschen-und-halten-ihn-gesund-a-880b0499-5102-4c67-971b-16d16da44e47
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/mikrobiologie-billionen-von-viren-leben-auf-dem-menschen-und-halten-ihn-gesund-a-880b0499-5102-4c67-971b-16d16da44e47
+[6] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-elektronische-kampffuehrung-gegen-russische-drohnen-a-9aa8a3b2-9d67-4e30-86d5-bacf8bdb031c
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/ukraine-krieg-elektronische-kampffuehrung-gegen-russische-drohnen-a-9aa8a3b2-9d67-4e30-86d5-bacf8bdb031c
+[7] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/knochensammlerraupe-warum-sich-diese-raupe-mit-den-ueberresten-ihrer-beute-verkleidet-a-e6d1c0e5-b7ea-48d3-a42e-f063fad3e081
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/knochensammlerraupe-warum-sich-diese-raupe-mit-den-ueberresten-ihrer-beute-verkleidet-a-e6d1c0e5-b7ea-48d3-a42e-f063fad3e081
+[8] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/klimakrise-die-wolken-auf-erden-schwinden-und-dann-kochen-die-ozeane-a-269d9a7a-4571-4e76-b1d9-80e9c56439a4
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/klimakrise-die-wolken-auf-erden-schwinden-und-dann-kochen-die-ozeane-a-269d9a7a-4571-4e76-b1d9-80e9c56439a4
+[9] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/kriminalfall-der-urzeit-massengrab-riesiger-amphibien-in-wyoming-entdeckt-a-1ecbb873-4428-4dbc-81db-14efeecac5e1
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/kriminalfall-der-urzeit-massengrab-riesiger-amphibien-in-wyoming-entdeckt-a-1ecbb873-4428-4dbc-81db-14efeecac5e1
+[10] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/elon-musk-faa-erklaert-starship-raketenprogramm-von-spacex-in-texas-fuer-unbedenklich-a-08fd471f-1718-4814-b6e3-2531074004a2
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/elon-musk-faa-erklaert-starship-raketenprogramm-von-spacex-in-texas-fuer-unbedenklich-a-08fd471f-1718-4814-b6e3-2531074004a2
+[11] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/guatemala-maya-stadt-tikal-altar-fund-deutet-auf-alten-konflikt-hin-a-95e96fb2-a980-452f-a908-f188917efd3d
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/guatemala-maya-stadt-tikal-altar-fund-deutet-auf-alten-konflikt-hin-a-95e96fb2-a980-452f-a908-f188917efd3d
+[12] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/led-masken-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/led-masken-das-wahre-gesicht-des-skincare-hypes-podcast-a-14ee1779-d03a-44e0-86e0-3d89d3fbe0b1
+[13] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/titanic-3d-scan-des-luxusdampfers-enthuellt-neue-details-zum-untergang-a-50cfd1c5-7982-4f1c-a3b9-a4b92ed10017
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/titanic-3d-scan-des-luxusdampfers-enthuellt-neue-details-zum-untergang-a-50cfd1c5-7982-4f1c-a3b9-a4b92ed10017
+[14] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/schattenwoelfe-wie-aus-game-of-thrones-forscher-sehen-gen-experiment-kritisch-a-4be1a97a-4f62-4ae3-bb17-d398bf5b7c77
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/schattenwoelfe-wie-aus-game-of-thrones-forscher-sehen-gen-experiment-kritisch-a-4be1a97a-4f62-4ae3-bb17-d398bf5b7c77
+[15] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/reden-im-us-kongress-argumentieren-abgeordnete-eher-nach-ueberzeugungen-oder-fakten-a-42172dd2-59ed-4414-9e80-2acec792dec9
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/reden-im-us-kongress-argumentieren-abgeordnete-eher-nach-ueberzeugungen-oder-fakten-a-42172dd2-59ed-4414-9e80-2acec792dec9
+[16] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/frankreich-forschungsprojekt-iter-weltweit-staerkster-magnet-gefertigt-a-bf9a628a-f2ea-488a-8f54-64b7a1997312
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/frankreich-forschungsprojekt-iter-weltweit-staerkster-magnet-gefertigt-a-bf9a628a-f2ea-488a-8f54-64b7a1997312
+[17] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/mars-mission-deutsche-forscher-entwickeln-solarzellen-aus-kuenstlichem-mondstaub-a-4bad6aa6-7cb4-4f9c-bbab-6b74c54d53c5
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/mars-mission-deutsche-forscher-entwickeln-solarzellen-aus-kuenstlichem-mondstaub-a-4bad6aa6-7cb4-4f9c-bbab-6b74c54d53c5
+[18] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/kinderspielzeug-eu-einigt-sich-auf-verbot-schaedlicher-chemikalien-in-spielzeug-a-6d7ae181-da9b-44f7-a3e5-5e4d9642ea1d
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/kinderspielzeug-eu-einigt-sich-auf-verbot-schaedlicher-chemikalien-in-spielzeug-a-6d7ae181-da9b-44f7-a3e5-5e4d9642ea1d
+[19] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/frankreich-moenche-banden-buecher-in-robbenfell-ein-aber-wo-bekamen-sie-das-her-a-3469b0a1-3e03-4972-8c6a-4da8056913be
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/frankreich-moenche-banden-buecher-in-robbenfell-ein-aber-wo-bekamen-sie-das-her-a-3469b0a1-3e03-4972-8c6a-4da8056913be
+[20] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/raumfahrt-kosmos-482-aus-sowjetzeit-kann-unkontrolliert-auf-die-erde-stuerzen-a-e8cc4ec0-50e4-44b2-835a-7d1e805b6178
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/raumfahrt-kosmos-482-aus-sowjetzeit-kann-unkontrolliert-auf-die-erde-stuerzen-a-e8cc4ec0-50e4-44b2-835a-7d1e805b6178
+[21] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/trockenheit-in-deutschland-wasserproblem-im-koalitionsvertrag-kaum-beruecksichtigt-a-54321e94-2fe9-4626-b544-90b5cc793afd
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/trockenheit-in-deutschland-wasserproblem-im-koalitionsvertrag-kaum-beruecksichtigt-a-54321e94-2fe9-4626-b544-90b5cc793afd
+[22] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/klimabericht-des-deutschen-wetterdienstes-fuer-2024-so-hart-trifft-deutschland-die-klimakrise-a-f6d5759b-dddb-4b12-8085-ea2bbe831996
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/klimabericht-des-deutschen-wetterdienstes-fuer-2024-so-hart-trifft-deutschland-die-klimakrise-a-f6d5759b-dddb-4b12-8085-ea2bbe831996
+[23] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/mongolei-dinosaurier-duonychus-tsogtbaatari-aus-fossilien-rekonstruiert-a-fa0e9cd7-ff5c-41b4-9e50-4bf602db6fdf
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/mongolei-dinosaurier-duonychus-tsogtbaatari-aus-fossilien-rekonstruiert-a-fa0e9cd7-ff5c-41b4-9e50-4bf602db6fdf
+[24] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/borstenwurm-was-in-karlsruhe-und-in-anderen-museen-kurioses-gefunden-wurde-a-c15ab35b-b202-49e0-87d4-3a32f8d9bc68
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/borstenwurm-was-in-karlsruhe-und-in-anderen-museen-kurioses-gefunden-wurde-a-c15ab35b-b202-49e0-87d4-3a32f8d9bc68
+[25] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/tiefseebergbau-was-von-donald-trumps-plaenen-zu-halten-ist-a-ed07a102-96dc-45f6-a36f-855ad79dd8b8
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/tiefseebergbau-was-von-donald-trumps-plaenen-zu-halten-ist-a-ed07a102-96dc-45f6-a36f-855ad79dd8b8
+[26] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/marsrover-curiosity-ein-kleiner-schwarzer-punkt-auf-grosser-fahrt-a-9220f298-1fad-48b0-9365-3ccbe9ac5483
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/marsrover-curiosity-ein-kleiner-schwarzer-punkt-auf-grosser-fahrt-a-9220f298-1fad-48b0-9365-3ccbe9ac5483
+[27] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/vietnam-neue-genanalyse-soll-spur-zum-asiatischen-einhorn-saola-liefern-a-c783bf20-52f4-443c-af48-07b5dbc158bf
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/vietnam-neue-genanalyse-soll-spur-zum-asiatischen-einhorn-saola-liefern-a-c783bf20-52f4-443c-af48-07b5dbc158bf
+[28] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/malta-jaeger-und-sammler-reisten-schon-vor-8500-jahren-auf-die-insel-a-1ac0bc13-4990-4d4f-ae49-1c9786f9d54b
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/malta-jaeger-und-sammler-reisten-schon-vor-8500-jahren-auf-die-insel-a-1ac0bc13-4990-4d4f-ae49-1c9786f9d54b
+[29] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/energiemarkt-strom-aus-sonne-und-wind-die-uebersehene-revolution-a-483e4a52-b3ee-492d-9f76-41e573ebcb42
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/energiemarkt-strom-aus-sonne-und-wind-die-uebersehene-revolution-a-483e4a52-b3ee-492d-9f76-41e573ebcb42
+[30] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/daenemark-aggressiver-schimmel-bedroht-kunstschaetze-in-museen-a-f113bbe3-9c55-47cb-8a4e-ac5795b1e5ca
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/daenemark-aggressiver-schimmel-bedroht-kunstschaetze-in-museen-a-f113bbe3-9c55-47cb-8a4e-ac5795b1e5ca
+[31] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/tschernobyl-kontaminiertes-ackerland-kann-offenbar-wieder-bewirtschaftet-werden-a-9c45205f-fa22-4264-a965-e6a8d467a97b
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/tschernobyl-kontaminiertes-ackerland-kann-offenbar-wieder-bewirtschaftet-werden-a-9c45205f-fa22-4264-a965-e6a8d467a97b
+[32] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/wir-befreunden-uns-eher-mit-menschen-die-wir-gut-riechen-koennen-a-374b04e9-3552-4169-9113-654a1812469e
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/wir-befreunden-uns-eher-mit-menschen-die-wir-gut-riechen-koennen-a-374b04e9-3552-4169-9113-654a1812469e
+[33] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/trockenheit-in-deutschland-wie-stadteichhoernchen-die-duerre-ueberstehen-a-300f3cc6-86c1-4eb5-b1b5-c5608ae3cfbe
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/trockenheit-in-deutschland-wie-stadteichhoernchen-die-duerre-ueberstehen-a-300f3cc6-86c1-4eb5-b1b5-c5608ae3cfbe
+[34] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/usa-wissenschaftler-verlassen-das-land-exodus-der-klugen-koepfe-a-62402d46-d0e3-41ef-a830-08e6b07528b6
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/usa-wissenschaftler-verlassen-das-land-exodus-der-klugen-koepfe-a-62402d46-d0e3-41ef-a830-08e6b07528b6
+[35] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/archaeologie-das-raetselhafte-verschwinden-der-wikinger-a-75278ef8-1469-4018-be79-deb20d59d2d9
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/archaeologie-das-raetselhafte-verschwinden-der-wikinger-a-75278ef8-1469-4018-be79-deb20d59d2d9
+[36] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/koalitionsvertrag-die-wichtigste-strategische-frage-a-5bf774c6-b2bd-401a-9235-7073da1488a0
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/koalitionsvertrag-die-wichtigste-strategische-frage-a-5bf774c6-b2bd-401a-9235-7073da1488a0
+[37] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/elon-musk-spacex-erhaelt-milliardenschweren-us-regierungsauftrag-a-f3684352-0e6a-47b4-a41a-56673f5a2008
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/elon-musk-spacex-erhaelt-milliardenschweren-us-regierungsauftrag-a-f3684352-0e6a-47b4-a41a-56673f5a2008
+[38] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/leipzig-archaeologen-entdecken-raetselhafte-grubenlinien-a-04f210c1-4932-4dcb-82b7-675642f5ab29
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/leipzig-archaeologen-entdecken-raetselhafte-grubenlinien-a-04f210c1-4932-4dcb-82b7-675642f5ab29
+[39] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/neuseeland-seltene-schneckenart-legt-eier-aus-ihrem-hals-a-356d4ba5-777b-4702-ac31-764cb3e03c1a
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/neuseeland-seltene-schneckenart-legt-eier-aus-ihrem-hals-a-356d4ba5-777b-4702-ac31-764cb3e03c1a
+[40] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen-a-c3b592f2-b9b4-4dc7-ab53-020745981d5e
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/donald-trump-warum-seine-waehler-eine-politik-gegen-ihre-eigenen-interessen-unterstuetzen-a-c3b592f2-b9b4-4dc7-ab53-020745981d5e
+[41] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/donald-trump-die-sorge-des-us-praesidenten-vor-viren-aus-dem-labor-a-5aa78b66-47cb-42fb-82d7-4af80112a1e6
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/donald-trump-die-sorge-des-us-praesidenten-vor-viren-aus-dem-labor-a-5aa78b66-47cb-42fb-82d7-4af80112a1e6
+[42] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/isar-aerospace-spectrum-rakete-kurz-nach-erfolgreichem-start-abgestuerzt-a-7e18e3f0-b680-44ad-b061-bdc33bc3b86f
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/isar-aerospace-spectrum-rakete-kurz-nach-erfolgreichem-start-abgestuerzt-a-7e18e3f0-b680-44ad-b061-bdc33bc3b86f
+[43] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/ausschuettung-von-opioiden-gehirn-reagiert-auf-musik-aehnlich-wie-auf-essen-und-sex-a-e0b5f6e7-a170-4e1b-a5e3-a8fc520b9de8
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/ausschuettung-von-opioiden-gehirn-reagiert-auf-musik-aehnlich-wie-auf-essen-und-sex-a-e0b5f6e7-a170-4e1b-a5e3-a8fc520b9de8
+[44] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/entwicklungshilfe-gekuerzte-aids-hilfen-koennen-bis-zu-drei-millionen-leben-kosten-a-36a09731-d87a-4747-84cb-799dbfce7566
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/entwicklungshilfe-gekuerzte-aids-hilfen-koennen-bis-zu-drei-millionen-leben-kosten-a-36a09731-d87a-4747-84cb-799dbfce7566
+[45] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/aralsee-austrocknen-fuehrt-zu-veraenderungen-bis-in-den-erdmantel-a-7ad29445-cac0-4a55-b9a9-82380d09deb6
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/aralsee-austrocknen-fuehrt-zu-veraenderungen-bis-in-den-erdmantel-a-7ad29445-cac0-4a55-b9a9-82380d09deb6
+[46] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-podcast-a-59416bdb-55ce-468e-bab3-8a1fbafd2605
+[47] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/donald-trump-usa-stoppen-gain-of-function-forschung-an-viren-a-e2191efb-3127-4c7b-8870-852311580302
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/donald-trump-usa-stoppen-gain-of-function-forschung-an-viren-a-e2191efb-3127-4c7b-8870-852311580302
+[48] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/atmos-space-cargo-deutsches-raumfahrt-startup-testet-aufblasbaren-hitzeschild-a-ae905a30-5d9b-417f-9686-43b8c60b7b10
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/atmos-space-cargo-deutsches-raumfahrt-startup-testet-aufblasbaren-hitzeschild-a-ae905a30-5d9b-417f-9686-43b8c60b7b10
+[49] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/uebergangs-praesidentin-der-columbia-universitaet-tritt-ab-a-ac6bd36a-ec32-48b9-8f65-353a10aa14f2
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/uebergangs-praesidentin-der-columbia-universitaet-tritt-ab-a-ac6bd36a-ec32-48b9-8f65-353a10aa14f2
+[50] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/kanada-schafft-das-klimageld-ab-bonus-fuer-sparsame-a-b4d7f902-95f5-40f2-8bbf-eabc921cd158
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/kanada-schafft-das-klimageld-ab-bonus-fuer-sparsame-a-b4d7f902-95f5-40f2-8bbf-eabc921cd158
+[51] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/stuttgart-archaeologen-entdecken-roemischen-pferdefriedhof-a-c32f2515-d11e-4e3c-a025-b19f466779e9
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/stuttgart-archaeologen-entdecken-roemischen-pferdefriedhof-a-c32f2515-d11e-4e3c-a025-b19f466779e9
+[52] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/tripper-neu-entwickeltes-antibiotikum-wirkt-gegen-resistente-erreger-a-a0dd83ad-bda0-40d2-8fbe-066cd14fba7e
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/tripper-neu-entwickeltes-antibiotikum-wirkt-gegen-resistente-erreger-a-a0dd83ad-bda0-40d2-8fbe-066cd14fba7e
+[53] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/fruehling-2025-in-deutschland-extrem-trocken-welche-folgen-das-nun-hat-a-c5abaa20-deda-49d6-9bcf-13ebccd72aa2
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/fruehling-2025-in-deutschland-extrem-trocken-welche-folgen-das-nun-hat-a-c5abaa20-deda-49d6-9bcf-13ebccd72aa2
+[54] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/plastikmuell-plastik-wird-laut-studie-nur-zu-einem-bruchteil-recycelt-a-f14c0f54-ee72-414f-984c-3850fbf3d5a5
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/plastikmuell-plastik-wird-laut-studie-nur-zu-einem-bruchteil-recycelt-a-f14c0f54-ee72-414f-984c-3850fbf3d5a5
+[55] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/klimawandel-wo-sind-die-2600-milliarden-tonnen-wasser-hin-a-00373276-5b2a-4d29-9424-07579003df19
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/klimawandel-wo-sind-die-2600-milliarden-tonnen-wasser-hin-a-00373276-5b2a-4d29-9424-07579003df19
+[56] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien-a-97db17a2-0426-4a9d-b141-a66ab7dc2f16
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/hoellenameise-lebte-vor-113-millionen-jahren-in-brasilien-a-97db17a2-0426-4a9d-b141-a66ab7dc2f16
+[57] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/makrelen-im-nordostatlantik-bestand-geht-zurueck-a-3db52a38-8ab0-4153-90e8-81390e9852e4
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/makrelen-im-nordostatlantik-bestand-geht-zurueck-a-3db52a38-8ab0-4153-90e8-81390e9852e4
+[58] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/malaysian-airlines-flug-mh370-die-letzte-suche-nach-dem-groessten-mysterium-der-luftfahrt-a-83a45df4-de15-4f83-926f-65f6c098d314
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/malaysian-airlines-flug-mh370-die-letzte-suche-nach-dem-groessten-mysterium-der-luftfahrt-a-83a45df4-de15-4f83-926f-65f6c098d314
+[59] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/cdu-csu-und-spd-in-koalitionsverhandlungen-fusionsreaktor-traeume-der-union-a-38dfd1d6-5ec2-4089-b199-f0a078ccab47
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/cdu-csu-und-spd-in-koalitionsverhandlungen-fusionsreaktor-traeume-der-union-a-38dfd1d6-5ec2-4089-b199-f0a078ccab47
+[60] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/mumie-in-oesterreich-forscher-loesen-raetsel-um-luftgselchten-pfarrer-a-9ac4f21b-42b9-48f4-bcab-844552448479
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/mumie-in-oesterreich-forscher-loesen-raetsel-um-luftgselchten-pfarrer-a-9ac4f21b-42b9-48f4-bcab-844552448479
+[61] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/ki-orakel-erkennt-lebensalter-kiffen-und-autofahren-der-lifestyle-der-germanen-a-7ebca6be-2ac1-4d48-b62b-09396e579185
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/ki-orakel-erkennt-lebensalter-kiffen-und-autofahren-der-lifestyle-der-germanen-a-7ebca6be-2ac1-4d48-b62b-09396e579185
+[62] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/ursula-von-der-leyen-eu-will-als-antwort-auf-donald-trump-magnet-fuer-forscher-werden-a-8b534b1d-7c05-4586-83a4-ddd7e726d8eb
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/ursula-von-der-leyen-eu-will-als-antwort-auf-donald-trump-magnet-fuer-forscher-werden-a-8b534b1d-7c05-4586-83a4-ddd7e726d8eb
+[63] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/frauen-im-beruf-warum-wir-ueber-menstruation-und-wechseljahre-sprechen-muessen-podcast-a-b6689c01-7397-4586-8207-e02d12bbf2db
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/frauen-im-beruf-warum-wir-ueber-menstruation-und-wechseljahre-sprechen-muessen-podcast-a-b6689c01-7397-4586-8207-e02d12bbf2db
+[64] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/brustkrebs-vorsorgliche-brustamputation-mit-24-jahren-a-8e53bfb3-7d4f-42a9-acca-45f9bde0619b
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/brustkrebs-vorsorgliche-brustamputation-mit-24-jahren-a-8e53bfb3-7d4f-42a9-acca-45f9bde0619b
+[65] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/schattenwolf-haben-forschende-wirklich-den-dire-wolf-wiederbelebt-a-f2ec89b9-9042-4dcd-ae1e-15c21aea88d2
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/schattenwolf-haben-forschende-wirklich-den-dire-wolf-wiederbelebt-a-f2ec89b9-9042-4dcd-ae1e-15c21aea88d2
+[66] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/usa-klimabedingte-waldbraende-koennten-15-000-todesfaelle-mitverursacht-haben-a-507a3ad7-6ce7-40a7-a5ef-82872d17799c
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/usa-klimabedingte-waldbraende-koennten-15-000-todesfaelle-mitverursacht-haben-a-507a3ad7-6ce7-40a7-a5ef-82872d17799c
+[67] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/koalitionsvertrag-das-bringt-das-regierungsprogramm-fuer-den-klimaschutz-a-e296ab36-a058-4c7b-a075-c35c9ff7af77
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/koalitionsvertrag-das-bringt-das-regierungsprogramm-fuer-den-klimaschutz-a-e296ab36-a058-4c7b-a075-c35c9ff7af77
+[68] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/schwaben-deutsches-plesiosaurus-fossil-veraendert-sichtweise-auf-eine-ganze-art-a-81248302-b023-423d-a643-62a7e383922e
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/schwaben-deutsches-plesiosaurus-fossil-veraendert-sichtweise-auf-eine-ganze-art-a-81248302-b023-423d-a643-62a7e383922e
+[69] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/weltraum-biomass-esa-muss-satelliten-abschalten-weil-er-us-militaer-stoert-a-9d4aec6b-71a1-40c6-bab5-d9e5eb24eb15
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/weltraum-biomass-esa-muss-satelliten-abschalten-weil-er-us-militaer-stoert-a-9d4aec6b-71a1-40c6-bab5-d9e5eb24eb15
+[70] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/exoplanet-bd-05-4868-ab-verliert-fast-jeden-tag-die-masse-des-mount-everest-a-4ad54358-a8fa-48f5-bb6e-f72307b365c9
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/exoplanet-bd-05-4868-ab-verliert-fast-jeden-tag-die-masse-des-mount-everest-a-4ad54358-a8fa-48f5-bb6e-f72307b365c9
+[71] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/jerusalem-archaeologen-finden-jahrhundertealte-graffiti-im-saal-des-letzten-abendmahls-a-4aa66fc9-6c9b-4f7c-ac5e-3d2c46e6576d
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/jerusalem-archaeologen-finden-jahrhundertealte-graffiti-im-saal-des-letzten-abendmahls-a-4aa66fc9-6c9b-4f7c-ac5e-3d2c46e6576d
+[72] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/blitze-und-gewitter-rosenheim-ist-deutschlands-blitz-hauptstadt-2024-a-97e2372c-a7ed-4919-9107-cd00583c6187
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/blitze-und-gewitter-rosenheim-ist-deutschlands-blitz-hauptstadt-2024-a-97e2372c-a7ed-4919-9107-cd00583c6187
+[73] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/erdbeben-in-myanmar-interview-mit-seismologe-frederik-tilmann-ueber-die-ursachen-a-13c2effb-b63a-4a12-80ee-6bb4984cb866
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/erdbeben-in-myanmar-interview-mit-seismologe-frederik-tilmann-ueber-die-ursachen-a-13c2effb-b63a-4a12-80ee-6bb4984cb866
+[74] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/istanbul-seismologe-yoshinori-moriwaki-warnt-vor-tsunamis-mit-meterhohen-wellen-a-96289250-7226-4e3d-81ea-fc4d7f2287a2
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/istanbul-seismologe-yoshinori-moriwaki-warnt-vor-tsunamis-mit-meterhohen-wellen-a-96289250-7226-4e3d-81ea-fc4d7f2287a2
+[75] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/koloss-kalmar-forscher-filmen-ihn-zum-ersten-mal-in-seiner-natuerlichen-umgebung-a-b7d9805d-7450-4c6a-be1d-9fde9bc572d1
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/koloss-kalmar-forscher-filmen-ihn-zum-ersten-mal-in-seiner-natuerlichen-umgebung-a-b7d9805d-7450-4c6a-be1d-9fde9bc572d1
+[76] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/exoplanet-k2-18b-hinweise-auf-ausserirdisches-leben-entdeckt-a-7ae4e94d-c0c6-4586-beef-a9d3d53febd5
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/exoplanet-k2-18b-hinweise-auf-ausserirdisches-leben-entdeckt-a-7ae4e94d-c0c6-4586-beef-a9d3d53febd5
+[77] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen-a-f5fff176-fcb3-4180-91b3-287c47c9ba12
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/mittelalter-frauen-spielten-relevante-rolle-als-schreiberinnen-a-f5fff176-fcb3-4180-91b3-287c47c9ba12
+[78] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/gegengift-entwickelt-timothy-friede-liess-sich-200-mal-von-giftigen-schlangen-beissen-warum-a-e90d57bf-775c-4e13-81b7-dc87257b056a
+[79] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/tu-muenchen-neues-verfahren-findet-krankheitserreger-in-minuten-statt-tagen-a-4f08acbc-933e-4f6c-aa08-f29a9800c6af
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/tu-muenchen-neues-verfahren-findet-krankheitserreger-in-minuten-statt-tagen-a-4f08acbc-933e-4f6c-aa08-f29a9800c6af
+[80] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/kinderlaehmung-zehntausende-leiden-unter-dem-post-polio-syndrom-a-60e4ef13-30d0-4f1e-b3c9-ce88c0c98087
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/kinderlaehmung-zehntausende-leiden-unter-dem-post-polio-syndrom-a-60e4ef13-30d0-4f1e-b3c9-ce88c0c98087
+[81] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/unwetter-in-den-usa-meteorologen-warnen-vor-katastrophalen-ueberschwemmungen-a-86b8aa24-19f9-4f17-9a00-b108bfa56a1d
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/unwetter-in-den-usa-meteorologen-warnen-vor-katastrophalen-ueberschwemmungen-a-86b8aa24-19f9-4f17-9a00-b108bfa56a1d
+[82] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/donald-trump-gegen-die-wissenschaft-us-forschende-suchen-verstaerkt-nach-stellen-im-ausland-a-6028e834-7807-41c7-a711-54fd224b34f2
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/donald-trump-gegen-die-wissenschaft-us-forschende-suchen-verstaerkt-nach-stellen-im-ausland-a-6028e834-7807-41c7-a711-54fd224b34f2
+[83] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/beton-superkondensatoren-wie-die-hauswand-zum-energiespeicher-wird-a-e8ea9f7b-b07e-4218-8c4e-807797da597b
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/beton-superkondensatoren-wie-die-hauswand-zum-energiespeicher-wird-a-e8ea9f7b-b07e-4218-8c4e-807797da597b
+[84] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/handys-powerbanks-e-zigaretten-wie-gefaehrlich-sind-handyakkus-im-handgepaeck-a-fe015b3d-faed-40c0-972a-1163236d7b12
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/handys-powerbanks-e-zigaretten-wie-gefaehrlich-sind-handyakkus-im-handgepaeck-a-fe015b3d-faed-40c0-972a-1163236d7b12
+[85] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/klimawandel-waermster-maerz-in-europa-seit-beginn-der-aufzeichnungen-a-9460c929-87b6-4c8f-b78c-0ba2a3e87d0f
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/klimawandel-waermster-maerz-in-europa-seit-beginn-der-aufzeichnungen-a-9460c929-87b6-4c8f-b78c-0ba2a3e87d0f
+[86] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/klima-die-reichsten-zehn-prozent-sind-fuer-zwei-drittel-der-erderwaermung-verantwortlich-a-ed3158ea-0880-4f84-9d46-a28914b67186
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/klima-die-reichsten-zehn-prozent-sind-fuer-zwei-drittel-der-erderwaermung-verantwortlich-a-ed3158ea-0880-4f84-9d46-a28914b67186
+[87] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/gesundheit-aerzte-verschreiben-museumsbesuch-auf-rezept-als-alternative-zur-traditionellen-medizin-a-6235fdff-b5a5-4d59-8c41-70d820e73f1e
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/gesundheit-aerzte-verschreiben-museumsbesuch-auf-rezept-als-alternative-zur-traditionellen-medizin-a-6235fdff-b5a5-4d59-8c41-70d820e73f1e
+[88] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/china-schweineleber-erstmals-in-hirntoten-menschen-transplantiert-a-d6ac5bf3-f28d-40e8-92f8-e790e73cb41d
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/china-schweineleber-erstmals-in-hirntoten-menschen-transplantiert-a-d6ac5bf3-f28d-40e8-92f8-e790e73cb41d
+[89] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/spacex-rabea-rogge-als-erste-deutsche-frau-im-weltall-frueher-waren-astronauten-absolute-helden-a-f41e4d9d-fe33-4226-8a9e-fdc4f59161cd
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/spacex-rabea-rogge-als-erste-deutsche-frau-im-weltall-frueher-waren-astronauten-absolute-helden-a-f41e4d9d-fe33-4226-8a9e-fdc4f59161cd
+[90] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/waldbraende-wie-neue-satelliten-beim-kampf-gegen-feuer-helfen-a-5cc7a362-ce0f-40e4-b532-cf5abd537d46
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/waldbraende-wie-neue-satelliten-beim-kampf-gegen-feuer-helfen-a-5cc7a362-ce0f-40e4-b532-cf5abd537d46
+[91] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-als-erste-deutsche-frau-ins-all-gestartet-fuer-spacex-raumfahrt-mission-fram2-a-db6adc75-034b-4162-859b-a6910eb6a7b2
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-als-erste-deutsche-frau-ins-all-gestartet-fuer-spacex-raumfahrt-mission-fram2-a-db6adc75-034b-4162-859b-a6910eb6a7b2
+[92] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/donald-trump-und-die-zoelle-china-setzt-im-handelskrieg-auf-die-macht-seiner-seltenen-erden-a-e8e2efa0-1986-447a-bc3f-3872de39a806
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/donald-trump-und-die-zoelle-china-setzt-im-handelskrieg-auf-die-macht-seiner-seltenen-erden-a-e8e2efa0-1986-447a-bc3f-3872de39a806
+[93] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/schlaf-und-gesundheit-studie-legt-vorteile-von-laengerem-schlaf-fuer-heranwachsende-nahe-a-072f1090-7188-4620-ad74-c10e40608da8
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/schlaf-und-gesundheit-studie-legt-vorteile-von-laengerem-schlaf-fuer-heranwachsende-nahe-a-072f1090-7188-4620-ad74-c10e40608da8
+[94] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/iss-erfolgreiche-rueckkehr-von-us-amerikanischen-und-russischen-astronauten-a-b50f76a1-add9-4cc4-b882-5b9a3d3d8639
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/iss-erfolgreiche-rueckkehr-von-us-amerikanischen-und-russischen-astronauten-a-b50f76a1-add9-4cc4-b882-5b9a3d3d8639
+[95] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/europas-klima-2024-im-westen-war-es-zu-nass-im-osten-zu-trocken-a-52c300af-439b-4a57-b488-9b88a478c279
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/europas-klima-2024-im-westen-war-es-zu-nass-im-osten-zu-trocken-a-52c300af-439b-4a57-b488-9b88a478c279
+[96] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/europaeische-union-wind-und-solarenergie-staerken-europas-unabhaengigkeit-a-f9931a4a-38c0-41e6-bcac-2f98d3d78870
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/europaeische-union-wind-und-solarenergie-staerken-europas-unabhaengigkeit-a-f9931a4a-38c0-41e6-bcac-2f98d3d78870
+[97] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/rauchen-val-kilmer-und-david-lynch-sind-tot-wir-muessen-ueber-die-unsichtbare-epidemie-sprechen-a-7bb44866-0d26-4951-9417-a1dee2b94708
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/rauchen-val-kilmer-und-david-lynch-sind-tot-wir-muessen-ueber-die-unsichtbare-epidemie-sprechen-a-7bb44866-0d26-4951-9417-a1dee2b94708
+[98] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/us-finanzpolitik-wie-donald-trump-den-kapitalismus-bedroht-kolumne-a-0122b47d-64ae-4d3f-a099-1aac6a804e66
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/us-finanzpolitik-wie-donald-trump-den-kapitalismus-bedroht-kolumne-a-0122b47d-64ae-4d3f-a099-1aac6a804e66
+[99] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/gesunde-ernaehrung-fuer-raumfahrende-im-all-fermentiertes-miso-schmeckt-nussig-a-0307553e-d0a1-4d03-8720-26b69b8ba438
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/gesunde-ernaehrung-fuer-raumfahrende-im-all-fermentiertes-miso-schmeckt-nussig-a-0307553e-d0a1-4d03-8720-26b69b8ba438
+[100] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/co-deponien-forscher-empfehlen-speicherorte-in-der-nordsee-a-f523ff7b-39cf-4cfc-8779-a4f49c64cc37
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/co-deponien-forscher-empfehlen-speicherorte-in-der-nordsee-a-f523ff7b-39cf-4cfc-8779-a4f49c64cc37
+[101] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/fossil-sue-weicher-kern-perfekt-erhalten-harte-schale-aufgeloest-a-b2c0f620-63ce-4d74-b869-c436fd221c99
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/fossil-sue-weicher-kern-perfekt-erhalten-harte-schale-aufgeloest-a-b2c0f620-63ce-4d74-b869-c436fd221c99
+[102] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/raumfahrt-astronauten-koennten-im-all-eigenes-essen-herstellen-a-ee20b523-9cf8-40bb-89fc-10eaa4d37cb7
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/raumfahrt-astronauten-koennten-im-all-eigenes-essen-herstellen-a-ee20b523-9cf8-40bb-89fc-10eaa4d37cb7
+[103] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/ki-trainingsdaten-hat-metas-llama-meine-buecher-gelesen-kolumne-a-80365448-7759-45b2-8e7e-b479ca3853a9
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/ki-trainingsdaten-hat-metas-llama-meine-buecher-gelesen-kolumne-a-80365448-7759-45b2-8e7e-b479ca3853a9
+[104] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/donald-trump-vs-harvard-wie-der-protest-nach-diskriminierungsberichten-weitergehen-kann-a-65e7318b-ab2e-4dff-8242-a8bf1e67d4f8
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/donald-trump-vs-harvard-wie-der-protest-nach-diskriminierungsberichten-weitergehen-kann-a-65e7318b-ab2e-4dff-8242-a8bf1e67d4f8
+[105] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/corona-bnd-muss-erkenntnisse-ueber-pandemie-ursprung-nicht-offenlegen-a-cb50ee7c-1b79-4b16-99d0-facc758d9af1
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/corona-bnd-muss-erkenntnisse-ueber-pandemie-ursprung-nicht-offenlegen-a-cb50ee7c-1b79-4b16-99d0-facc758d9af1
+[106] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/mpox-experten-warnen-vor-ernster-bedrohung-durch-affenpocken-a-a07f9daf-b95f-45af-bbac-d19bf4b65a49
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/mpox-experten-warnen-vor-ernster-bedrohung-durch-affenpocken-a-a07f9daf-b95f-45af-bbac-d19bf4b65a49
+[107] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/alterprognose-mit-ki-ein-blick-in-den-koerper-verraet-das-sterberisiko-a-a2fabd89-0d0b-4604-8f28-413501f86d26
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/alterprognose-mit-ki-ein-blick-in-den-koerper-verraet-das-sterberisiko-a-a2fabd89-0d0b-4604-8f28-413501f86d26
+[108] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/abnehmpille-statt-ozempic-und-wegovy-eli-lilly-testet-tablette-fuer-schnellen-gewichtsverlust-a-8be52514-04e0-405d-9027-01469ccd930f
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/abnehmpille-statt-ozempic-und-wegovy-eli-lilly-testet-tablette-fuer-schnellen-gewichtsverlust-a-8be52514-04e0-405d-9027-01469ccd930f
+[109] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-das-bedeutet-der-erste-test-der-neuen-deutschen-rakete-a-df5073a4-7f7a-4902-ac4b-c87b9d280948
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/spectrum-von-isar-aerospace-das-bedeutet-der-erste-test-der-neuen-deutschen-rakete-a-df5073a4-7f7a-4902-ac4b-c87b9d280948
+[110] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-am-samstag-sieht-die-sonne-etwas-angeknabbert-aus-a-35e7933e-cd64-4a14-a50e-a3ce22207db6
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/sonnenfinsternis-am-samstag-sieht-die-sonne-etwas-angeknabbert-aus-a-35e7933e-cd64-4a14-a50e-a3ce22207db6
+[111] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/ostsee-forscher-aus-rostock-wecken-alge-nach-7000-jahren-dauerschlaf-a-5da80e5c-435a-489f-8c46-a059a42fedb7
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/ostsee-forscher-aus-rostock-wecken-alge-nach-7000-jahren-dauerschlaf-a-5da80e5c-435a-489f-8c46-a059a42fedb7
+[112] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/masern-ausbruch-im-sueden-der-usa-ist-der-groesste-seit-25-jahren-a-59e09901-9656-473e-b65f-091cef10446a
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/masern-ausbruch-im-sueden-der-usa-ist-der-groesste-seit-25-jahren-a-59e09901-9656-473e-b65f-091cef10446a
+[113] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/antje-boetius-ueber-ihren-wechsel-in-die-usa-es-gibt-nur-verlierer-wenn-forschung-ideologisiert-wird-a-1192e0d6-7364-4d67-a509-e9f2213beca4
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/antje-boetius-ueber-ihren-wechsel-in-die-usa-es-gibt-nur-verlierer-wenn-forschung-ideologisiert-wird-a-1192e0d6-7364-4d67-a509-e9f2213beca4
+[114] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/erkenntnisse-ueber-die-germanen-dieses-trara-um-die-varusschlacht-ist-mir-suspekt-a-03bb87ca-9477-4b37-a6ce-1393a9e23a45
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/erkenntnisse-ueber-die-germanen-dieses-trara-um-die-varusschlacht-ist-mir-suspekt-a-03bb87ca-9477-4b37-a6ce-1393a9e23a45
+[115] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/quantenkommunikation-forscher-bauen-quantennetzwerk-ueber-gewoehnliches-telefonkabel-auf-a-baeefab8-aa04-44bf-bdbd-6d43c1618c55
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/quantenkommunikation-forscher-bauen-quantennetzwerk-ueber-gewoehnliches-telefonkabel-auf-a-baeefab8-aa04-44bf-bdbd-6d43c1618c55
+[116] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/island-vulkan-sundhnuksgigar-ausgebrochen-lava-verschluckt-strassen-blaue-lagune-evakuiert-a-6157ed2e-7b1c-427a-9688-ecc5c59cdebc
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/island-vulkan-sundhnuksgigar-ausgebrochen-lava-verschluckt-strassen-blaue-lagune-evakuiert-a-6157ed2e-7b1c-427a-9688-ecc5c59cdebc
+[117] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/wie-sicher-sind-norwegens-erdgas-pipelines-nach-deutschland-a-247288d7-ad48-4066-9699-cf540fe376bf
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/wie-sicher-sind-norwegens-erdgas-pipelines-nach-deutschland-a-247288d7-ad48-4066-9699-cf540fe376bf
+[118] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/desy-chefin-beate-heinemann-wir-verlieren-immer-noch-viele-talentierte-forscherinnen-a-bc28c14a-ef63-435a-8ccd-d5a3248b48dd
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/desy-chefin-beate-heinemann-wir-verlieren-immer-noch-viele-talentierte-forscherinnen-a-bc28c14a-ef63-435a-8ccd-d5a3248b48dd
+[119] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-myanmar-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben-a-45ffe439-abca-45bc-9173-b01a01d12b68
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/erdbeben-in-myanmar-wie-lange-kann-ein-mensch-unter-truemmern-ueberleben-a-45ffe439-abca-45bc-9173-b01a01d12b68
+[120] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/donald-trump-gegen-die-wissenschaft-wie-viel-widerstand-kann-sich-harvard-leisten-a-34a15953-f0d1-442c-a1cc-c2ceb291b838
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/donald-trump-gegen-die-wissenschaft-wie-viel-widerstand-kann-sich-harvard-leisten-a-34a15953-f0d1-442c-a1cc-c2ceb291b838
+[121] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/raumfahrt-rabea-rogge-soll-als-erste-frau-mit-spacex-um-die-pole-fliegen-a-7cbc7a38-ec9a-484f-a4bd-0452ece4e925
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/raumfahrt-rabea-rogge-soll-als-erste-frau-mit-spacex-um-die-pole-fliegen-a-7cbc7a38-ec9a-484f-a4bd-0452ece4e925
+[122] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/weltgesundheitsorganisation-who-staaten-einigen-sich-auf-pandemie-abkommen-a-4baacf74-e3a8-439b-89e9-e77466458d52
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/weltgesundheitsorganisation-who-staaten-einigen-sich-auf-pandemie-abkommen-a-4baacf74-e3a8-439b-89e9-e77466458d52
+[123] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/schlafstoerungen-haengen-sie-mit-verschwoerungsglauben-zusammen-a-6f829ea9-f687-41db-911e-075b8f13ddb0
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/schlafstoerungen-haengen-sie-mit-verschwoerungsglauben-zusammen-a-6f829ea9-f687-41db-911e-075b8f13ddb0
+[124] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/gladiatoren-hinweise-auf-kaempfe-mit-loewen-im-roemischen-reich-a-4ae65d87-0eba-4d65-8fd3-3330983a77cc
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/gladiatoren-hinweise-auf-kaempfe-mit-loewen-im-roemischen-reich-a-4ae65d87-0eba-4d65-8fd3-3330983a77cc
+[125] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/pompeji-archaeologen-entdecken-antike-grabskulpturen-in-nekropole-von-porta-sarno-a-325eb4a5-d4af-4655-a73a-b2178c7584b0
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/pompeji-archaeologen-entdecken-antike-grabskulpturen-in-nekropole-von-porta-sarno-a-325eb4a5-d4af-4655-a73a-b2178c7584b0
+[126] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/artus-legende-verstecktes-merlin-manuskript-in-altem-buch-in-cambridge-entdeckt-a-65718fbf-fdc5-448a-bc8b-0943a1abe0b5
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/artus-legende-verstecktes-merlin-manuskript-in-altem-buch-in-cambridge-entdeckt-a-65718fbf-fdc5-448a-bc8b-0943a1abe0b5
+[127] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-mit-seltenen-leguanen-aus-galapagos-nimmt-zu-a-28a282fa-2b57-49ba-aab7-68ac373de35e
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/uganda-schmuggel-mit-seltenen-leguanen-aus-galapagos-nimmt-zu-a-28a282fa-2b57-49ba-aab7-68ac373de35e
+[128] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/sefe-warum-macht-eine-deutsche-firma-gasgeschaefte-mit-russland-a-a17f23dd-f5ae-4db1-a79d-b0b22309f0bf
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/sefe-warum-macht-eine-deutsche-firma-gasgeschaefte-mit-russland-a-a17f23dd-f5ae-4db1-a79d-b0b22309f0bf
+[129] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/australien-regierung-nach-toetung-von-700-koalas-in-der-kritik-a-2eb585db-ce8d-4232-806f-017feedc8f74
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/australien-regierung-nach-toetung-von-700-koalas-in-der-kritik-a-2eb585db-ce8d-4232-806f-017feedc8f74
+[130] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/kalifornien-seeloewin-ronan-zeigt-mehr-rhythmusgefuehl-als-mancher-mensch-a-745ceb0b-937b-4448-ba2c-67a5cb886a89
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/kalifornien-seeloewin-ronan-zeigt-mehr-rhythmusgefuehl-als-mancher-mensch-a-745ceb0b-937b-4448-ba2c-67a5cb886a89
+[131] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/erdbeben-in-istanbul-tuerkei-die-erdstoesse-sind-vorboten-einer-groesseren-katastrophe-a-f66e4ff2-7a00-47fe-a3aa-b671b5451099
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/erdbeben-in-istanbul-tuerkei-die-erdstoesse-sind-vorboten-einer-groesseren-katastrophe-a-f66e4ff2-7a00-47fe-a3aa-b671b5451099
+[132] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/kraehen-koennen-laut-studie-geometrische-formen-erkennen-a-23ec702f-a2dd-4129-861a-a35ce967f7da
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/kraehen-koennen-laut-studie-geometrische-formen-erkennen-a-23ec702f-a2dd-4129-861a-a35ce967f7da
+[133] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/iss-nasa-gestrandete-astronauten-wuerden-wieder-starliner-fliegen-a-e4e7fd91-5f38-49ed-b448-5cf2a2e2ae36
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/iss-nasa-gestrandete-astronauten-wuerden-wieder-starliner-fliegen-a-e4e7fd91-5f38-49ed-b448-5cf2a2e2ae36
+[134] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/donald-trump-rund-1900-forschende-widersetzen-sich-grossangriff-auf-die-amerikanische-wissenschaft-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/donald-trump-rund-1900-forschende-widersetzen-sich-grossangriff-auf-die-amerikanische-wissenschaft-a-3a90d14d-9bcf-401e-bf80-7924a2bdc0dc
+[135] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/denisova-mensch-forschende-wollen-kieferknochen-identifiziert-haben-a-c84b70b9-fac5-4f45-896b-adb3122c6388
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/denisova-mensch-forschende-wollen-kieferknochen-identifiziert-haben-a-c84b70b9-fac5-4f45-896b-adb3122c6388
+[136] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/rheinfall-moos-felsen-statt-tosende-fluten-a-4e8fa59b-b17c-42d8-b382-83133d4ef959
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/rheinfall-moos-felsen-statt-tosende-fluten-a-4e8fa59b-b17c-42d8-b382-83133d4ef959
+[137] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/das-oropouche-virus-breitet-sich-in-lateinamerika-aus-a-23aaf71a-f097-480c-a4dd-2a52c380c70e
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/das-oropouche-virus-breitet-sich-in-lateinamerika-aus-a-23aaf71a-f097-480c-a4dd-2a52c380c70e
+[138] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/eu-kommission-erlaubt-neuen-wirkstoff-gegen-alzheimer-a-b883a4ea-9e94-4692-b275-7e2a17f0c47a
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/eu-kommission-erlaubt-neuen-wirkstoff-gegen-alzheimer-a-b883a4ea-9e94-4692-b275-7e2a17f0c47a
+[139] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/attacke-auf-flughafen-von-tel-aviv-warum-israels-raketenschutzschirm-manchmal-loecher-hat-a-9b2aba8a-adb3-44d8-a980-b574de64f38e
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/attacke-auf-flughafen-von-tel-aviv-warum-israels-raketenschutzschirm-manchmal-loecher-hat-a-9b2aba8a-adb3-44d8-a980-b574de64f38e
+[140] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/wie-starker-kaffee-auch-mit-wenig-pulver-gelingt-physiker-geben-tipps-a-e0fec5bc-90a1-4274-8f14-05dcade13032
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/wie-starker-kaffee-auch-mit-wenig-pulver-gelingt-physiker-geben-tipps-a-e0fec5bc-90a1-4274-8f14-05dcade13032
+[141] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/gas-aus-russland-deutschland-kauft-lng-zugunsten-von-wladimir-putin-a-724425ed-3b0d-4086-afb6-ce80ec6692d5
+[142] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/italien-mutmasslich-russische-drohne-ueberfliegt-forschungszentrum-der-eu-a-b9b3bfe0-c8b3-4494-ab5b-ec8273921048
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/italien-mutmasslich-russische-drohne-ueberfliegt-forschungszentrum-der-eu-a-b9b3bfe0-c8b3-4494-ab5b-ec8273921048
+[143] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/tiefsee-nicht-einmal-0-001-prozent-sind-erforscht-a-6ec6d4b0-570c-4adc-ba2b-ef2a2c33f017
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/tiefsee-nicht-einmal-0-001-prozent-sind-erforscht-a-6ec6d4b0-570c-4adc-ba2b-ef2a2c33f017
+[144] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/fledermaeuse-koennen-durch-echoortungsstrategie-kollisionen-vermeiden-a-efc09498-41c8-4448-a397-c37e4cf86459
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/fledermaeuse-koennen-durch-echoortungsstrategie-kollisionen-vermeiden-a-efc09498-41c8-4448-a397-c37e4cf86459
+[145] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/harvard-co-wie-kaempfen-us-hochschulen-gegen-trumps-sparpolitik-a-bb854b53-29f4-4789-9637-77e941d89550
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/harvard-co-wie-kaempfen-us-hochschulen-gegen-trumps-sparpolitik-a-bb854b53-29f4-4789-9637-77e941d89550
+[146] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/vogelbestaende-drei-viertel-der-arten-in-nordamerika-im-rueckgang-a-f5ac1398-4e27-49e6-9330-9bb825839f00
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/vogelbestaende-drei-viertel-der-arten-in-nordamerika-im-rueckgang-a-f5ac1398-4e27-49e6-9330-9bb825839f00
+[147] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/island-forschende-erwarten-unruhige-zeiten-auf-reykjanes-halbinsel-a-c43d20a0-f95a-4406-83a4-ff5b2b356e66
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/island-forschende-erwarten-unruhige-zeiten-auf-reykjanes-halbinsel-a-c43d20a0-f95a-4406-83a4-ff5b2b356e66
+[148] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/brasilien-dieser-pfeilgiftfrosch-vom-amazonas-traegt-leopardenmuster-a-74ffd585-8c3e-47a2-b13b-8d112b25126e
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/brasilien-dieser-pfeilgiftfrosch-vom-amazonas-traegt-leopardenmuster-a-74ffd585-8c3e-47a2-b13b-8d112b25126e
+[149] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/baumhummer-im-prager-zoo-dieser-hummer-lebt-auf-baeumen-a-054033f7-f82f-4dd8-ab94-ae2e2b0741ab
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/baumhummer-im-prager-zoo-dieser-hummer-lebt-auf-baeumen-a-054033f7-f82f-4dd8-ab94-ae2e2b0741ab
+[150] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/berghain-in-berlin-und-die-techno-szene-forscher-erklaert-das-einlass-prinzip-a-5e3702e0-6fb4-4413-a9eb-85e99b8cae9f
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/berghain-in-berlin-und-die-techno-szene-forscher-erklaert-das-einlass-prinzip-a-5e3702e0-6fb4-4413-a9eb-85e99b8cae9f
+[151] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/unterwasservulkan-im-pazifik-forschende-beobachten-vulkanausbruch-in-der-tiefsee-a-f506dbbb-df3f-4552-8779-4201e0fda7bd
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/unterwasservulkan-im-pazifik-forschende-beobachten-vulkanausbruch-in-der-tiefsee-a-f506dbbb-df3f-4552-8779-4201e0fda7bd
+[152] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/donald-trump-helfen-die-zoelle-am-ende-dem-klima-a-d16955a4-1a9c-4745-8c34-e478c6b54656
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/donald-trump-helfen-die-zoelle-am-ende-dem-klima-a-d16955a4-1a9c-4745-8c34-e478c6b54656
+[153] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand-a-e889046f-e82b-4c75-b9ab-654cc229e08b
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/amerikas-universitaeten-brauchen-mut-zum-widerstand-a-e889046f-e82b-4c75-b9ab-654cc229e08b
+[154] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/gehirnjogging-die-wahrheit-ueber-wikinger-und-die-trockenheit-am-bodensee-a-a3fd92d7-791e-4c9b-be9e-73cafae1bbcb
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/gehirnjogging-die-wahrheit-ueber-wikinger-und-die-trockenheit-am-bodensee-a-a3fd92d7-791e-4c9b-be9e-73cafae1bbcb
+[155] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/hirnforschung-in-einem-winzigen-stueck-maeusehirn-stecken-84-000-nervenzellen-a-352222f0-10f6-40a5-a0f4-1361a2e9c7d8
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/hirnforschung-in-einem-winzigen-stueck-maeusehirn-stecken-84-000-nervenzellen-a-352222f0-10f6-40a5-a0f4-1361a2e9c7d8
+[156] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/rabea-rogge-erste-astronautin-aus-deutschland-warum-frauen-in-der-raumfahrt-unterrepraesentiert-sind-a-d6594488-e08e-4591-bcb0-744f8f58d12e
+[157] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/hochwasser-sturmfluten-waldbraende-portal-soll-buerger-besser-auf-naturgefahren-vorbereiten-a-f1acf023-8e1e-4198-be1d-d8704d861f2d
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/hochwasser-sturmfluten-waldbraende-portal-soll-buerger-besser-auf-naturgefahren-vorbereiten-a-f1acf023-8e1e-4198-be1d-d8704d861f2d
+[158] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest-a-850e6f5f-5615-4eaa-b17b-55e29ee6aa0e
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/breakthrough-prize-sieger-der-wissenschaftsauszeichnung-stehen-fest-a-850e6f5f-5615-4eaa-b17b-55e29ee6aa0e
+[159] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/oesterreich-forscher-entdecken-massengrab-mit-roemischen-soldaten-bei-wien-a-f7646e15-fb57-48c6-92ee-c440064542fa
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/oesterreich-forscher-entdecken-massengrab-mit-roemischen-soldaten-bei-wien-a-f7646e15-fb57-48c6-92ee-c440064542fa
+[160] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/konkurrenz-fuer-starlink-von-elon-musk-amazon-bringt-seine-ersten-internet-satelliten-ins-all-a-68a46187-d68a-407d-b4e3-e3ab2125699c
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/konkurrenz-fuer-starlink-von-elon-musk-amazon-bringt-seine-ersten-internet-satelliten-ins-all-a-68a46187-d68a-407d-b4e3-e3ab2125699c
+[161] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/iran-schwerer-sandsturm-betrifft-millionen-menschen-a-278ad0c0-5f9a-4369-82b6-5e91f279bad3
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/iran-schwerer-sandsturm-betrifft-millionen-menschen-a-278ad0c0-5f9a-4369-82b6-5e91f279bad3
+[162] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/tapinoma-magnum-aggressive-ameise-breitet-sich-in-deutschland-aus-a-552940d7-8cb0-4143-8bcd-7659941ea1ab
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/tapinoma-magnum-aggressive-ameise-breitet-sich-in-deutschland-aus-a-552940d7-8cb0-4143-8bcd-7659941ea1ab
+[163] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/russland-ukraine-krieg-welche-rolle-spielen-nordkoreas-riesengeschuetze-koksan-a-1a5e25ec-a4b3-4057-9ac9-77eef8a35ad2
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/russland-ukraine-krieg-welche-rolle-spielen-nordkoreas-riesengeschuetze-koksan-a-1a5e25ec-a4b3-4057-9ac9-77eef8a35ad2
+[164] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/gedenken-an-den-bauernkrieg-so-seltsam-feiert-oberschwaben-das-historische-jubilaeum-a-41df8944-dd13-4870-9b0a-6667a3145ef9
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/gedenken-an-den-bauernkrieg-so-seltsam-feiert-oberschwaben-das-historische-jubilaeum-a-41df8944-dd13-4870-9b0a-6667a3145ef9
+[165] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/waffen-kann-europa-militaerisch-gegen-russland-bestehen-a-1ce6ebaf-7382-4f36-abdc-4c47461143e4
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/waffen-kann-europa-militaerisch-gegen-russland-bestehen-a-1ce6ebaf-7382-4f36-abdc-4c47461143e4
+[166] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/usa-hochwasser-in-tennessee-video-von-fast-ueberfluteter-farm-geht-viral-a-2a604ae8-2526-4460-bebb-660d729ddb6f
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/usa-hochwasser-in-tennessee-video-von-fast-ueberfluteter-farm-geht-viral-a-2a604ae8-2526-4460-bebb-660d729ddb6f
+[167] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/tierversuche-warum-sich-mehr-als-110-forschende-zu-den-experimenten-bekennen-a-90a95941-cc6e-45b8-8e25-c2d11115bf34
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/tierversuche-warum-sich-mehr-als-110-forschende-zu-den-experimenten-bekennen-a-90a95941-cc6e-45b8-8e25-c2d11115bf34
+[168] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/coronavirus-stammt-sars-cov-2-aus-einem-chinesischen-labor-ja-sagt-das-weisse-haus-a-5dba0ba1-5d1a-4b45-9996-262151d79022
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/coronavirus-stammt-sars-cov-2-aus-einem-chinesischen-labor-ja-sagt-das-weisse-haus-a-5dba0ba1-5d1a-4b45-9996-262151d79022
+[169] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung-a-de793f8a-8627-4280-83df-b87c00abf191
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/duerre-in-suedafrika-studie-hinterfragt-vorgaenge-im-erdmantel-als-ursache-fuer-landanhebung-a-de793f8a-8627-4280-83df-b87c00abf191
+[170] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland-a-056d3262-6273-483e-a44a-a5f9e20853c8
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/ss-verbrechen-historiker-rekonstruiert-massaker-an-zwangsarbeitern-im-sauerland-a-056d3262-6273-483e-a44a-a5f9e20853c8
+[171] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/primatenforschung-in-bolivien-suedamerikanische-affen-uebertreffen-menschliche-jodler-im-stimmumfang-a-4f05f050-cbac-46fd-abc5-448f5a9263b1
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/primatenforschung-in-bolivien-suedamerikanische-affen-uebertreffen-menschliche-jodler-im-stimmumfang-a-4f05f050-cbac-46fd-abc5-448f5a9263b1
+[172] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/exomars-mission-airbus-baut-landeplattform-fuer-europaeischen-mars-rover-a-8b59f507-0a79-4268-a439-ab70fff76a34
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/exomars-mission-airbus-baut-landeplattform-fuer-europaeischen-mars-rover-a-8b59f507-0a79-4268-a439-ab70fff76a34
+[173] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/lernen-was-beim-lernen-wirklich-hilft-erkenntnisse-aus-der-hirnforschung-a-c2ebc3b5-ff5d-4579-aae9-61eb042f3c28
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/lernen-was-beim-lernen-wirklich-hilft-erkenntnisse-aus-der-hirnforschung-a-c2ebc3b5-ff5d-4579-aae9-61eb042f3c28
+[174] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-lyriden-meteorstrom-erreicht-seinen-hoehepunkt-a-2eaa173f-b4e3-4e9e-9efb-76c5e4d79586
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/weltall/sternschnuppen-erwartet-lyriden-meteorstrom-erreicht-seinen-hoehepunkt-a-2eaa173f-b4e3-4e9e-9efb-76c5e4d79586
+[175] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/suedkorea-taucherinnen-von-jeju-genanalyse-zeigt-warum-koerper-die-belastung-aushalten-a-6dc9c1ac-d9e9-4ee3-b6f3-6afb0a651e5d
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/suedkorea-taucherinnen-von-jeju-genanalyse-zeigt-warum-koerper-die-belastung-aushalten-a-6dc9c1ac-d9e9-4ee3-b6f3-6afb0a651e5d
+[176] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/arbeit-im-schlachthof-es-gibt-aehnlichkeiten-zwischen-schlachtern-und-menschen-die-fleisch-essen-a-65bcab01-daa1-4246-a223-4e8a6f96878b
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/arbeit-im-schlachthof-es-gibt-aehnlichkeiten-zwischen-schlachtern-und-menschen-die-fleisch-essen-a-65bcab01-daa1-4246-a223-4e8a6f96878b
+[177] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/herculaneum-roentgenanalyse-macht-antike-tinte-auf-verkohltem-papyrus-lesbar-a-94fabaae-8c3c-40ec-a492-d81400dd1045
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/herculaneum-roentgenanalyse-macht-antike-tinte-auf-verkohltem-papyrus-lesbar-a-94fabaae-8c3c-40ec-a492-d81400dd1045
+[178] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/james-webb-teleskop-ungewoehnliche-spiralgalaxie-aus-frueher-kosmos-aera-entdeckt-a-8898dc6c-3216-42b7-93f4-06cb490380c9
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/james-webb-teleskop-ungewoehnliche-spiralgalaxie-aus-frueher-kosmos-aera-entdeckt-a-8898dc6c-3216-42b7-93f4-06cb490380c9
+[179] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/pasta-rezept-fuer-cacio-e-pepe-physiker-entwickeln-idiotensichere-rezeptur-a-0fdd05d8-1276-4539-b741-2555c030457f
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/pasta-rezept-fuer-cacio-e-pepe-physiker-entwickeln-idiotensichere-rezeptur-a-0fdd05d8-1276-4539-b741-2555c030457f
+[180] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/menschenaffen-und-alkohol-wilde-schimpansen-teilen-gern-vergorene-fruechte-a-abe27bfb-ae09-49ff-958a-ae34c99081f8
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/menschenaffen-und-alkohol-wilde-schimpansen-teilen-gern-vergorene-fruechte-a-abe27bfb-ae09-49ff-958a-ae34c99081f8
+[181] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/bremen-universitaet-und-alfred-wegener-institut-sichern-us-forschungsdaten-a-b2d70bd6-d3ef-4529-a4d8-f1899cb782b0
+[182] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/us-forscher-auf-der-flucht-die-rueckkehr-der-masern-ein-donut-aus-dem-all-lese-empfehlungen-a-7dca9296-b5e6-450b-bcce-8d6562301d37
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/us-forscher-auf-der-flucht-die-rueckkehr-der-masern-ein-donut-aus-dem-all-lese-empfehlungen-a-7dca9296-b5e6-450b-bcce-8d6562301d37
+[183] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/rund-ein-viertel-der-waelder-muss-aufgeforstet-werden-a-d12ba11f-1d22-4ba0-bca4-522baaaef632
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/rund-ein-viertel-der-waelder-muss-aufgeforstet-werden-a-d12ba11f-1d22-4ba0-bca4-522baaaef632
+[184] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/bayesian-so-soll-die-luxusjacht-geborgen-werden-a-a682241e-24cf-4005-b73a-0ae11c99baec
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/bayesian-so-soll-die-luxusjacht-geborgen-werden-a-a682241e-24cf-4005-b73a-0ae11c99baec
+[185] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/voegel-in-der-stadt-auffaelliges-gefieder-erleichtert-anpassung-a-ba2d73a0-4377-4ea5-b9ae-f916b1a70fc3
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/voegel-in-der-stadt-auffaelliges-gefieder-erleichtert-anpassung-a-ba2d73a0-4377-4ea5-b9ae-f916b1a70fc3
+[186] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg-a-f0653090-3a29-480a-bacd-84c6d2b1d352
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/klimawandel-gletscher-in-oesterreich-tauen-in-den-naechsten-jahrzehnten-weg-a-f0653090-3a29-480a-bacd-84c6d2b1d352
+[187] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/koalitionsverhandlungen-klimaziele-durch-neue-regierung-in-gefahr-a-9e8b2351-bb7d-465e-a26b-90c309a6873a
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/koalitionsverhandlungen-klimaziele-durch-neue-regierung-in-gefahr-a-9e8b2351-bb7d-465e-a26b-90c309a6873a
+[188] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/die-stille-sucht-raus-aus-der-medikamentenabhaengigkeit-spiegel-tv-fuer-arte-re-a-e1ef7900-fcc9-41b5-be0c-32604726ed55
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/die-stille-sucht-raus-aus-der-medikamentenabhaengigkeit-spiegel-tv-fuer-arte-re-a-e1ef7900-fcc9-41b5-be0c-32604726ed55
+[189] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/wie-china-die-usa-in-der-wissenschaft-ueberholen-moechte-a-9c3f785c-a122-4a18-a582-cd95d86c638e
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/wie-china-die-usa-in-der-wissenschaft-ueberholen-moechte-a-9c3f785c-a122-4a18-a582-cd95d86c638e
+[190] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/technik/grossbritannien-was-steckt-hinter-den-mutmasslichen-russischen-spionagesensoren-am-meeresgrund-a-67cc566b-0b75-4c8a-b15e-48788adac316
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/technik/grossbritannien-was-steckt-hinter-den-mutmasslichen-russischen-spionagesensoren-am-meeresgrund-a-67cc566b-0b75-4c8a-b15e-48788adac316
+[191] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/oxford-archaeologe-kritisiert-nutzung-von-menschlichem-schaedel-bei-festen-a-a4f4ea7b-d7d4-4672-901d-4045489f4f2a
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/oxford-archaeologe-kritisiert-nutzung-von-menschlichem-schaedel-bei-festen-a-a4f4ea7b-d7d4-4672-901d-4045489f4f2a
+[192] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/mysterioese-funde-der-gusseisensarg-im-hamburger-museum-a-5db2e98f-a191-4a84-b67d-3cc24188c0b0
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/mysterioese-funde-der-gusseisensarg-im-hamburger-museum-a-5db2e98f-a191-4a84-b67d-3cc24188c0b0
+[193] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/wissenschaft-geheimnisse-der-wolken-mysterioeser-sarg-probleme-mit-e-autos-a-0e7ca68f-46ad-4f05-bd83-7c3c3ee2ee89
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/wissenschaft-geheimnisse-der-wolken-mysterioeser-sarg-probleme-mit-e-autos-a-0e7ca68f-46ad-4f05-bd83-7c3c3ee2ee89
+[194] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/gletscher-diese-eisriesen-zerrinnen-a-5c889858-7313-4254-9f4a-dc0d3ab8587a
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/gletscher-diese-eisriesen-zerrinnen-a-5c889858-7313-4254-9f4a-dc0d3ab8587a
+[195] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/medizin/einbalsamierung-was-beim-aufbahren-von-paepsten-zu-beachten-ist-und-schiefgehen-kann-a-2171b5be-6f07-43cd-8b8b-41f0fc5533e5
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/medizin/einbalsamierung-was-beim-aufbahren-von-paepsten-zu-beachten-ist-und-schiefgehen-kann-a-2171b5be-6f07-43cd-8b8b-41f0fc5533e5
+[196] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/akku-braende-im-flugzeug-der-neutrino-detektor-in-china-schwuler-ss-offizier-eugen-dollmann-a-ce748177-0d88-4e8c-8b27-cb5213f17a74
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/akku-braende-im-flugzeug-der-neutrino-detektor-in-china-schwuler-ss-offizier-eugen-dollmann-a-ce748177-0d88-4e8c-8b27-cb5213f17a74
+[197] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-der-erde-a-92c41a70-78a7-422e-872c-4f0ff79def57
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/rabea-rogge-erste-deutsche-frau-im-all-nach-raumflug-zurueck-auf-der-erde-a-92c41a70-78a7-422e-872c-4f0ff79def57
+[198] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/natur/dire-wolf-experiment-im-genlabor-forscher-erschaffen-ausgestorbenen-schattenwolf-zumindest-teilweise-a-6ac1691e-e343-4d92-87bf-b38271552a91
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/natur/dire-wolf-experiment-im-genlabor-forscher-erschaffen-ausgestorbenen-schattenwolf-zumindest-teilweise-a-6ac1691e-e343-4d92-87bf-b38271552a91
+[199] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/mensch/sonntagsfrage-die-staendigen-scheinwahlen-schaden-der-demokratie-und-gefaehrden-sinnvolle-politik-a-cdc827a3-0160-467c-8bdd-a6e009da4b50
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/mensch/sonntagsfrage-die-staendigen-scheinwahlen-schaden-der-demokratie-und-gefaehrden-sinnvolle-politik-a-cdc827a3-0160-467c-8bdd-a6e009da4b50
+[200] Verarbeite Artikel: https://www.spiegel.de/wissenschaft/stromversorgung-in-spanien-und-portugal-wird-wiederhergestellt-a-e35a54fc-a45d-4d40-a42f-45112a768668
+Artikel unverändert – überspringe: https://www.spiegel.de/wissenschaft/stromversorgung-in-spanien-und-portugal-wird-wiederhergestellt-a-e35a54fc-a45d-4d40-a42f-45112a768668
+crawler5_article.py wurde ausgeführt.
+[0;32m[2025-05-08 22:38:11] ✅ Erfolgreich ausgeführt[0m
+✅ [2025-05-08 22:38:11] Erfolgreich
