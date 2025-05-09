@@ -8,7 +8,7 @@ output_dir = "/home/findus/Dokumente/PythonProject/NBDS/Output/txt_links"
 os.makedirs(output_dir, exist_ok=True)
 
 # Ziel-Textdatei
-output_file = os.path.join(output_dir, "alle_artikel_links.txt")
+output_file = os.path.join(output_dir, "article_links.txt")
 
 # Funktion zur Verarbeitung einer Datei
 def extract_article_links(filepath):
