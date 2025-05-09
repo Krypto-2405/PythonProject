@@ -1,5 +1,5 @@
 🕒 [2025-05-08 22:38:11] Start
-Inhalt erfolgreich in /home/findus/Dokumente/Projekte/ATD/Output/html/meta_output.html gespeichert.
+Inhalt erfolgreich in /home/findus/Dokumente/PythonProject/ATD/Output/html/meta_output.html gespeichert.
 crawler1_meta.py wurde ausgeführt.
 Gefundene Reiter-Links:
 Text: Schlagzeilen, URL: https://www.spiegel.de/schlagzeilen/
@@ -32,35 +32,35 @@ Text: Debatte, URL: https://www.spiegel.de/debatten/
 Text: DEIN SPIEGEL, URL: https://www.spiegel.de/deinspiegel/
 Text: SPIEGEL in English, URL: https://www.spiegel.de/international/
 crawler2_themen_txt.py wurde ausgeführt.
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/schlagzeilen.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/plus.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/magazine.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/extra.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/vatikan.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/a-81e94873-36e1-400b-a026-7fffc9ab6fd3.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/friedrich-merz-schwarz-rote-koalition.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/klimawandel.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/deutschland.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/ausland.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/panorama.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/sport.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/wirtschaft.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/wissenschaft.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/netzwelt.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/kultur.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/leben.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/daten-und-visualisierungen.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/reporter.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/karriere.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/start.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/tests.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/geschichte.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/auto.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/audio.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/video.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/debatten.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/deinspiegel.html
-[✓] Gespeichert: /home/findus/Dokumente/Projekte/ATD/Output/html/rubriken/international.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/schlagzeilen.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/plus.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/magazine.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/extra.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/vatikan.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/a-81e94873-36e1-400b-a026-7fffc9ab6fd3.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/friedrich-merz-schwarz-rote-koalition.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/klimawandel.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/deutschland.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/ausland.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/panorama.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/sport.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/wirtschaft.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/wissenschaft.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/netzwelt.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/kultur.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/leben.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/daten-und-visualisierungen.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/reporter.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/karriere.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/start.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/tests.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/geschichte.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/auto.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/audio.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/video.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/debatten.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/deinspiegel.html
+[✓] Gespeichert: /home/findus/Dokumente/PythonProject/ATD/Output/html/rubriken/international.html
 crawler3_html_write.py wurde ausgeführt.
 Verarbeite Seite: https://www.spiegel.de/wissenschaft/
 Verarbeite Seite: https://www.spiegel.de/wissenschaft//p2/

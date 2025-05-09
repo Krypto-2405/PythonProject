@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # === Konfiguration ===
-PYTHON_SCRIPT="/home/findus/Dokumente/Projekte/NBDS/Input/crawler0_script.py"
-LOGFILE="/home/findus/Dokumente/Projekte/NBDS/logs/crawler_log.txt"
-JSONLOG="/home/findus/Dokumente/Projekte/NBDS/logs/crawler_log.jsonl"
+PYTHON_SCRIPT="/home/findus/Dokumente/PythonProject/NBDS/Input/crawler0_script.py"
+LOGFILE="/home/findus/Dokumente/PythonProject/NBDS/logs/crawler_log.txt"
+JSONLOG="/home/findus/Dokumente/PythonProject/NBDS/logs/crawler_log.jsonl"
 MAXLOGSIZE=51200  # Max 50KB für Rotation
 EMAIL="deinname@example.com"  # Für Mailbenachrichtigung (optional)
 

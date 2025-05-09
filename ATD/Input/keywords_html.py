@@ -38,8 +38,8 @@ def extract_news_keywords_from_html_files(html_directory, output_csv_file):
 
 
 # Verzeichnisse und Dateipfade
-html_directory = "/home/findus/Dokumente/Projekte/ATD/Output/html_files"  # Pfad zu den HTML-Dateien
-output_csv_file = "/home/findus/Dokumente/Projekte/ATD/Output/news_keywords_output.csv"  # Ausgabedatei für Keywords (CSV)
+html_directory = "/home/findus/Dokumente/PythonProject/ATD/Output/html_files"  # Pfad zu den HTML-Dateien
+output_csv_file = "/home/findus/Dokumente/PythonProject/ATD/Output/news_keywords_output.csv"  # Ausgabedatei für Keywords (CSV)
 
 # Keywords extrahieren und speichern
 extract_news_keywords_from_html_files(html_directory, output_csv_file)

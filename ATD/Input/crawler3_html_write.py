@@ -7,7 +7,7 @@ import os
 import re
 
 # Verzeichnis-Struktur
-base_directory = "/home/findus/Dokumente/Projekte/ATD/Output"
+base_directory = "/home/findus/Dokumente/PythonProject/ATD/Output"
 txt_links_directory = os.path.join(base_directory, "txt_links")
 html_directory = os.path.join(base_directory, "html", "rubriken")
 os.makedirs(html_directory, exist_ok=True)

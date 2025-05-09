@@ -1,53 +1,40 @@
-
-
-
-import requests
 from bs4 import BeautifulSoup
 import os
 
-# Funktion zum Extrahieren und Speichern der Artikel-Links
-def scrape_article_links(base_url, save_directory, max_pages=10):
-    try:
-        links = set()  # Ein Set speichert nur eindeutige Links
-        
-        # Schleife über die Seiten von 1 bis max_pages
-        for page_num in range(1, max_pages + 1):
-            # URL für die aktuelle Seite (z.B. /p1/, /p2/, ...)
-            page_url = f"{base_url}/p{page_num}/" if page_num > 1 else base_url
-            
-            print(f"Verarbeite Seite: {page_url}")
-            response = requests.get(page_url)
-            response.raise_for_status()  # Sicherstellen, dass die Anfrage erfolgreich war
-            soup = BeautifulSoup(response.text, 'html.parser')
-            
-            # Alle Artikel-Links extrahieren (wir suchen nach 'a'-Tags mit der entsprechenden Klasse)
-            article_links = soup.find_all('a', class_='text-black dark:text-shade-lightest block')
-            
-            # Schleife über alle gefundenen Links und Hinzufügen zur Menge
-            for link in article_links:
-                article_url = link.get('href')
-                
-                # Stelle sicher, dass der Link eine vollständige URL ist
-                if article_url and not article_url.startswith('http'):
-                    article_url = 'https://www.spiegel.de' + article_url  # Falls der Link relativ ist
-                
-                links.add(article_url)  # Link zur Menge (Set) hinzufügen
-        
-        # Speichern der Links in einer Textdatei
-        links_file_path = os.path.join(save_directory, 'article_links.txt')
-        with open(links_file_path, 'w', encoding='utf-8') as links_file:
-            for idx, link in enumerate(links):
-                links_file.write(link + '\n')  # Jeden Link in eine neue Zeile
-                print(f"[{idx + 1}] Link gespeichert: {link}")
-    
-    except requests.exceptions.RequestException as e:
-        print(f"Fehler beim Abrufen der Seite {base_url}: {e}")
+# Eingabe- und Ausgabeverzeichnisse
+input_dir = "/home/findus/Dokumente/PythonProject/NBDS/Output/html/rubriken"
+output_dir = "/home/findus/Dokumente/PythonProject/NBDS/Output/txt_links"
+os.makedirs(output_dir, exist_ok=True)
 
-# Hauptcode
-base_url = "https://www.spiegel.de/wissenschaft/"  # URL der Wissenschafts-Rubrik
-save_directory = "/home/findus/Dokumente/Projekte/NBDS/Output/txt_links"  # Verzeichnis zum Speichern der Textdatei mit Links
+# Ziel-Textdatei
+output_file = os.path.join(output_dir, "alle_artikel_links.txt")
 
-os.makedirs(save_directory, exist_ok=True)  # Falls das Verzeichnis noch nicht existiert
+# Funktion zur Verarbeitung einer Datei
+def extract_article_links(filepath):
+    with open(filepath, "r", encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
 
-# Alle Artikel-Links extrahieren und speichern
-scrape_article_links(base_url, save_directory)
+    links = []
+    articles = soup.find_all("div", class_="single_post")
+    for article in articles:
+        a_tag = article.find("a", href=True)
+        if a_tag:
+            link = a_tag["href"]
+            links.append(link)
+    return links
+
+# Alle HTML-Dateien im Eingabeverzeichnis verarbeiten
+with open(output_file, "w", encoding="utf-8") as f_out:
+    for filename in os.listdir(input_dir):
+        if filename.endswith(".html"):
+            filepath = os.path.join(input_dir, filename)
+            category = os.path.splitext(filename)[0]  # Dateiname ohne .html
+            article_links = extract_article_links(filepath)
+
+            if article_links:
+                f_out.write(f"### {category} ###\n")
+                for link in article_links:
+                    f_out.write(link + "\n")
+                f_out.write("\n")
+
+print(f"Fertig. Artikel-Links gespeichert in: {output_file}")

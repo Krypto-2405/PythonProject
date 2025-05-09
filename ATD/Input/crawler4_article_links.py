@@ -45,7 +45,7 @@ def scrape_article_links(base_url, save_directory, max_pages=10):
 
 # Hauptcode
 base_url = "https://www.spiegel.de/wissenschaft/"  # URL der Wissenschafts-Rubrik
-save_directory = "/home/findus/Dokumente/Projekte/ATD/Output/txt_links"  # Verzeichnis zum Speichern der Textdatei mit Links
+save_directory = "/home/findus/Dokumente/PythonProject/ATD/Output/txt_links"  # Verzeichnis zum Speichern der Textdatei mit Links
 
 os.makedirs(save_directory, exist_ok=True)  # Falls das Verzeichnis noch nicht existiert
 

@@ -1,8 +1,8 @@
 import os
 
 # Verzeichnisse definieren
-input_directory = "/home/findus/Dokumente/Projekte/NBDS/Output/article"
-output_file = "/home/findus/Dokumente/Projekte/NBDS/Output/keyword_hits.txt"
+input_directory = "/home/findus/Dokumente/PythonProject/NBDS/Output/article"
+output_file = "/home/findus/Dokumente/PythonProject/NBDS/Output/keyword_hits.txt"
 
 # Schlüsselwörter
 keywords = [input("Keywords:")]

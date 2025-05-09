@@ -2,7 +2,7 @@ import subprocess
 import os
 
 # Das Verzeichnis zu den Skripten
-directory = "/home/findus/Dokumente/Projekte/ATD/Input"
+directory = "/home/findus/Dokumente/PythonProject/ATD/Input"
 
 # Wechsle in das Verzeichnis, in dem die Skripte liegen
 os.chdir(directory)

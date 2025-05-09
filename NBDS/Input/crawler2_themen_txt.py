@@ -2,11 +2,13 @@ from bs4 import BeautifulSoup
 import os
 
 # Pfade
-html_file = "/home/findus/Dokumente/Projekte/NBDS/Output/html/meta_output.html"
-output_dir = "/home/findus/Dokumente/Projekte/NBDS/Output/txt_links"
+html_file = "/home/findus/Dokumente/PythonProject/NBDS/Output/html/meta_output.html"
+output_dir = "/home/findus/Dokumente/PythonProject/NBDS/Output/txt_links"
 output_file = os.path.join(output_dir, "crawler2_themen.txt")
 
+# Sicherstellen, dass das Ausgabe-Verzeichnis existiert
 os.makedirs(output_dir, exist_ok=True)
+
 
 def extract_links(li_elements, f_out=None, seen_urls=set()):
     for li in li_elements:
@@ -20,7 +22,7 @@ def extract_links(li_elements, f_out=None, seen_urls=set()):
             if link not in seen_urls:
                 seen_urls.add(link)
                 line = f"{name}: {link}"
-                print(line)
+                print(line)  # Ausgabe für Debugging
                 f_out.write(line + "\n")
 
         # Jetzt ALLE <ul> im <li> suchen (nicht nur direkte)
@@ -32,17 +34,24 @@ def extract_links(li_elements, f_out=None, seen_urls=set()):
         if dropdown:
             extract_links(dropdown.find_all("li"), f_out=f_out, seen_urls=seen_urls)
 
+
 # Hauptlogik
-with open(output_file, 'w', encoding='utf-8') as f_out:
-    if not os.path.isfile(html_file):
-        print(f"Fehler: Die Datei {html_file} existiert nicht.")
-    else:
+if not os.path.isfile(html_file):
+    print(f"Fehler: Die Datei {html_file} existiert nicht.")
+else:
+    try:
         with open(html_file, "r", encoding="utf-8") as f:
             soup = BeautifulSoup(f, "html.parser")
 
-        # Hauptmenü holen
-        menu = soup.find("ul", id="menu-main-menu")
-        if menu:
-            extract_links(menu.find_all("li", recursive=False), f_out=f_out)
-        else:
-            print("Hauptmenü <ul id='menu-main-menu'> nicht gefunden.")
+        # Öffne die Ausgabedatei im Schreibmodus
+        with open(output_file, 'w', encoding='utf-8') as f_out:
+            # Hauptmenü holen
+            menu = soup.find("ul", id="menu-main-menu")
+            if menu:
+                extract_links(menu.find_all("li", recursive=False), f_out=f_out)
+            else:
+                print("Hauptmenü <ul id='menu-main-menu'> nicht gefunden.")
+
+        print(f"Die Links wurden erfolgreich in {output_file} gespeichert.")
+    except Exception as e:
+        print(f"Fehler beim Schreiben der Datei: {e}")

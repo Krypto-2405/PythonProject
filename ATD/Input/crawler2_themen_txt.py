@@ -5,20 +5,20 @@ from bs4 import BeautifulSoup
 import os
 
 # Zielverzeichnis definieren
-#directory = "F:/Prog/ATD/Projekte/Kris/Output/txt_links"
-directory = "/home/findus/Dokumente/Projekte/ATD/Output/txt_links"
+#directory = "F:/Prog/ATD/PythonProject/Kris/Output/txt_links"
+directory = "/home/findus/Dokumente/PythonProject/ATD/Output/txt_links"
 
 # Falls das Verzeichnis nicht existiert, erstellen
 os.makedirs(directory, exist_ok=True)
 
 # Dateipfad zur HTML-Datei
-file_path = r"/home/findus/Dokumente/Projekte/ATD/Output/html/meta_output.html"
+file_path = r"/home/findus/Dokumente/PythonProject/ATD/Output/html/meta_output.html"
 
 # Dateiname mit vollständigem Pfad setzen
 filename = os.path.join(directory, "crawler2_themen.txt")
 
 
-file_path2 = r"/home/findus/Dokumente/Projekte/ATD/Output/txt_links/crawler2_themen.txt"
+file_path2 = r"/home/findus/Dokumente/PythonProject/ATD/Output/txt_links/crawler2_themen.txt"
 open(file_path2, 'w').close()
 
 # Überprüfen, ob die Datei existiert

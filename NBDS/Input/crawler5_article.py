@@ -112,8 +112,8 @@ def scrape_article(url, article_directory, html_directory, csv_log_path):
         print(f"Fehler beim Abrufen des Artikels {url}: {e}")
 
 # Hauptcode
-article_links_file = "/home/findus/Dokumente/Projekte/NBDS/Output/txt_links/article_links.txt"
-base_directory = "/home/findus/Dokumente/Projekte/NBDS/Output"
+article_links_file = "/home/findus/Dokumente/PythonProject/NBDS/Output/txt_links/article_links.txt"
+base_directory = "/home/findus/Dokumente/PythonProject/NBDS/Output"
 article_directory = os.path.join(base_directory, 'article')
 html_directory = os.path.join(base_directory, 'html_files')
 csv_log_path = os.path.join(base_directory, 'artikel_log.csv')
