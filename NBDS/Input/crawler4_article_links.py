@@ -1,3 +1,4 @@
+#Rubriken durchsuchen und Artikel links speichern
 from bs4 import BeautifulSoup
 import os
 
