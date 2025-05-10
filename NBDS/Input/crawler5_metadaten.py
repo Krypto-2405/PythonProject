@@ -10,7 +10,9 @@ def log_article_to_csv(csv_path, data):
     file_exists = os.path.exists(csv_path)
     with open(csv_path, 'a', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=[
-            'Titel', 'URL', 'Hash', 'Revision', 'Last Modified', 'Text-Dateiname', 'HTML-Dateiname'
+            'Titel', 'URL', 'Hash', 'Revision', 'Published Time',
+            'Last Modified', 'Modified Time', 'Keywords',
+            'Autor', 'Lesedauer', 'Text-Dateiname', 'HTML-Dateiname'
         ])
         if not file_exists:
             writer.writeheader()
@@ -20,6 +22,21 @@ def log_article_to_csv(csv_path, data):
 def generate_filename(title, url_hash, revision, extension):
     return f"{title}_{url_hash}_rev{revision}{extension}"
 
+# Funktion zum Extrahieren von Metadaten
+def extract_metadata(soup):
+    def get_meta_content(attrs):
+        tag = soup.find('meta', attrs=attrs)
+        return tag.get('content') if tag else ''
+
+    # Metadaten extrahieren
+    published = get_meta_content({'property': 'article:published_time'})
+    modified = get_meta_content({'property': 'article:modified_time'})
+    keywords = [tag['content'] for tag in soup.find_all('meta', attrs={'property': 'article:tag'})]
+    autor = get_meta_content({'name': 'twitter:data1'})
+    lesedauer = get_meta_content({'name': 'twitter:data2'})
+
+    return published, modified, keywords, autor, lesedauer
+
 # Hauptfunktion für einen Artikel
 def scrape_article(url, article_dir, html_dir, csv_log_path):
     try:
@@ -27,34 +44,45 @@ def scrape_article(url, article_dir, html_dir, csv_log_path):
         os.makedirs(html_dir, exist_ok=True)
 
         url_hash = hashlib.md5(url.encode('utf-8')).hexdigest()[:6]
-
-        # Suche nach bereits vorhandenen HTML-Dateien mit dem gleichen Hash
         existing_files = [f for f in os.listdir(html_dir) if url_hash in f and f.endswith(".html")]
         highest_revision = 0
-        existing_last_modified = None
+        last_metadata = {}
 
+        # Überprüfen der vorhandenen Dateien und Metadaten
         for file in existing_files:
             rev_str = file.split("_rev")[-1].split(".")[0]
             try:
                 highest_revision = max(highest_revision, int(rev_str))
             except ValueError:
-                pass
+                continue
+
             with open(os.path.join(html_dir, file), 'r', encoding='utf-8', errors='ignore') as f:
                 soup = BeautifulSoup(f.read(), 'html.parser')
-                meta = soup.find('meta', attrs={'name': 'last-modified'})
-                if meta:
-                    existing_last_modified = meta.get('content')
+                pub, mod, keys, author, duration = extract_metadata(soup)
+                last_metadata = {
+                    'published': pub,
+                    'modified': mod,
+                    'keywords': set(keys),
+                    'author': author,
+                    'duration': duration
+                }
 
         # Aktuelle Version vom Server holen
         response = requests.get(url)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        # Metadata prüfen
-        current_last_modified_tag = soup.find('meta', attrs={'name': 'last-modified'})
-        current_last_modified = current_last_modified_tag.get('content') if current_last_modified_tag else None
+        # Aktuelle Metadaten extrahieren
+        published, modified, keywords, author, duration = extract_metadata(soup)
 
-        if existing_last_modified and current_last_modified == existing_last_modified:
+        # Prüfen, ob sich die Metadaten geändert haben
+        if last_metadata and all([
+            published == last_metadata['published'],
+            modified == last_metadata['modified'],
+            set(keywords) == last_metadata['keywords'],
+            author == last_metadata['author'],
+            duration == last_metadata['duration']
+        ]):
             print(f"Unverändert: {url}")
             return
 
@@ -62,10 +90,11 @@ def scrape_article(url, article_dir, html_dir, csv_log_path):
         h1 = soup.find('h1')
         title = h1.get_text(strip=True) if h1 else "Unbenannter_Artikel"
 
+        # Sonderzeichen im Titel ersetzen
         for ch in ['\\', '/', ':', '*', '?', '"', '<', '>', '|']:
             title = title.replace(ch, '_')
 
-        revision = highest_revision + 1 if existing_last_modified else 0
+        revision = highest_revision + 1
         html_filename = generate_filename(title, url_hash, revision, '.html')
         html_path = os.path.join(html_dir, html_filename)
 
@@ -94,13 +123,28 @@ def scrape_article(url, article_dir, html_dir, csv_log_path):
         else:
             print(f"Kein <div class='content'> gefunden für: {url}")
 
+        # Zusätzliche Metadaten extrahieren
+        published_tag = soup.find('meta', attrs={'property': 'article:published_time'})
+        published_time = published_tag.get('content') if published_tag else ''
+
+        modified_tag = soup.find('meta', attrs={'property': 'article:modified_time'})
+        modified_time = modified_tag.get('content') if modified_tag else ''
+
+        keywords_tags = soup.find_all('meta', attrs={'property': 'article:tag'})
+        keywords = '; '.join(tag.get('content') for tag in keywords_tags if tag.get('content'))
+
         # Logging
         log_article_to_csv(csv_log_path, {
             'Titel': title,
             'URL': url,
             'Hash': url_hash,
             'Revision': revision,
-            'Last Modified': current_last_modified or '',
+            'Published Time': published_time,
+            'Last Modified': '',  # für serverseitiges Last-Modified falls relevant
+            'Modified Time': modified_time,
+            'Keywords': keywords,
+            'Autor': author,
+            'Lesedauer': duration,
             'Text-Dateiname': text_filename,
             'HTML-Dateiname': html_filename
         })

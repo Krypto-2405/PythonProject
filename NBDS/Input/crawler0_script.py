@@ -13,7 +13,7 @@ scripts = [
     "crawler2_themen_txt.py",
     "crawler3_html_write.py",
     "crawler4_article_links.py",
-    "crawler5_article.py",
+    "crawler5_metadaten.py",
 ]
 
 # Alle Skripte nacheinander ausführen
