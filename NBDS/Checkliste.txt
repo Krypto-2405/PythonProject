@@ -1,0 +1,3 @@
+- Alle Rubriken und Artikel Seitenzahlen durchgehen
+- bash Datei optimieren
+- Keywords in der html Datei suchen
